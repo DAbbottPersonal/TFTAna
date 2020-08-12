@@ -1,0 +1,298 @@
+# List of Champions and their attributes
+#
+# General Format is
+# Champion (name):
+#   Cost:
+#   Traits:
+#   - Trait 2
+#   - Trait 1
+#
+
+Ahri:
+  Cost: 2
+  Traits:
+  - Star Guardian
+  - Sorcerer
+Annie:
+  Cost: 2
+  Traits:
+  - Mech Pilot
+  - Sorcerer
+Ashe:
+  Cost: 3
+  Traits:
+  - Celestial
+  - Sniper
+Aurelion Sol:
+  Cost: 5
+  Traits:
+  - Rebel
+  - Starship
+Bard:
+  Cost: 3
+  Traits:
+  - Astro
+  - Mystic
+Blitzcrank:
+  Cost: 2
+  Traits:
+  - Brawler
+  - Chrono
+Caitlyn:
+  Cost: 1
+  Traits:
+  - Chrono
+  - Sniper
+Cassiopeia:
+  Cost: 3
+  Traits:
+  - Battlecast
+  - Mystic
+Darius:
+  Cost: 2
+  Traits:
+  - Mana-Reaver
+  - Space Pirate
+Ekko:
+  Cost: 5
+  Traits:
+  - Cybernetic
+  - Infiltrator
+Ezreal:
+  Cost: 3
+  Traits:
+  - Blaster
+  - Chrono
+Fiora:
+  Cost: 1
+  Traits:
+  - Blademaster
+  - Cybernetic
+Fizz:
+  Cost: 4
+  Traits:
+  - Infiltrator
+  - Mech Pilot
+Gangplank:
+  Cost: 5
+  Traits:
+  - Demolitionist
+  - Mercenary
+  - Space Pirate
+Gnar:
+  Cost: 4
+  Traits:
+  - Astro
+  - Brawler
+Graves:
+  Cost: 1
+  Traits:
+  - Blaster
+  - Space Pirate
+Illaoi:
+  Cost: 1
+  Traits:
+  - Battlecast
+  - Brawler
+Irelia:
+  Cost: 4
+  Traits:
+  - Blademaster
+  - Cybernetic
+  - Mana-Reaver
+Janna:
+  Cost: 5
+  Traits:
+  - Paragon
+  - Star Guardian
+Jarvin IV:
+  Cost: 1
+  Traits:
+  - Dark Star
+  - Protector
+Jayce:
+  Cost: 3
+  Traits:
+  - Space Pirate
+  - Vanguard
+Jhin:
+  Cost: 4
+  Traits:
+  - Dark Star
+  - Sniper
+Jinx:
+  Cost: 4
+  Traits:
+  - Blaster
+  - Rebel
+Karma:
+  Cost: 3
+  Traits:
+  - Dark Star
+  - Mystic
+Kog Maw:
+  Cost: 2
+  Traits:
+  - Battlecast
+  - Blaster
+Leona:
+  Cost: 1
+  Traits:
+  - Cybernetic
+  - Vanguard
+Lucian:
+  Cost: 2
+  Traits:
+  - Blaster
+  - Cybernetic
+Lulu:
+  Cost: 5
+  Traits:
+  - Celestial
+  - Mystic
+Malphite:
+  Cost: 1
+  Traits:
+  - Brawler
+  - Rebel
+Master Yi:
+  Cost: 3
+  Traits:
+  - Blademaster
+  - Rebel
+Mordekaiser:
+  Cost: 2
+  Traits:
+  - Dark Star
+  - Vanguard
+Nautilus:
+  Cost: 2
+  Traits:
+  - Astro
+  - Vanguard
+Neeko:
+  Cost: 3
+  Traits:
+  - Protector
+  - Star Guardian
+Nocturne:
+  Cost: 1
+  Traits:
+  - Battlecast
+  - Infiltrator
+Poppy:
+  Cost: 1
+  Traits:
+  - Vanguard
+  - Star Guardian
+Rakan:
+  Cost: 2
+  Traits:
+  - Celestial
+  - Protector
+Riven:
+  Cost: 4
+  Traits:
+  - Blademaster
+  - Chrono
+Rumble:
+  Cost: 3
+  Traits:
+  - Demolitionist
+  - Mech Pilot
+Shaco:
+  Cost: 3
+  Traits:
+  - Dark Star
+  - Infiltrator
+Shen:
+  Cost: 2
+  Traits:
+  - Blademaster
+  - Chrono
+Soraka:
+  Cost: 4
+  Traits:
+  - Mystic
+  - Star Guardian   
+Syndra:
+  Cost: 3
+  Traits:
+  - Sorcerer
+  - Star Guardian
+Teemo:
+  Cost: 4
+  Traits:
+  - Astro
+  - Sniper
+Thresh:
+  Cost: 5
+  Traits:
+  - Chrono
+  - Mana-Reaver
+Twisted Fate:
+  Cost: 1
+  Traits:
+  - Chrono
+  - Sorcerer
+Urgot:
+  Cost: 5
+  Traits:
+  - Battlecast
+  - Protector
+Vayne:
+  Cost: 3
+  Traits:
+  - Cybernetic
+  - Sniper
+Vi:
+  Cost: 3
+  Traits:
+  - Brawler
+  - Cybernetic
+Viktor:
+  Cost: 4
+  Traits:
+  - Battlecast
+  - Sorcerer
+Wukong:
+  Cost: 4
+  Traits:
+  - Chrono
+  - Vanguard
+Xayah:
+  Cost: 1
+  Traits:
+  - Blademaster
+  - Celestial
+
+Xerath:
+  Cost: 5
+  Traits:
+  - Dark Star
+  - Sorcerer      
+Xin Zhao:
+  Cost: 2
+  Traits:
+  - Celestial
+  - Protector
+Yasuo:
+  Cost: 2
+  Traits:
+  - Blademaster
+  - Rebel
+Zed:
+  Cost: 2
+  Traits:
+  - Infiltrator
+  - Rebel
+Ziggs:
+  Cost: 1
+  Traits:
+  - Demolitionist
+  - Rebel      
+Zoe:
+  Cost: 1
+  Traits:
+  - Sorcerer
+  - Star Guardian
