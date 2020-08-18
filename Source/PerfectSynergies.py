@@ -68,11 +68,11 @@ def run_tests(all_syn, all_champs):
 #########################
 
 # Load data
-isSolved = {"One":True, "Two":True,
-            "Three":True, "Four":True,
-            "Five":True, "Six":True,
-            "Seven":True, "Eight":True,
-            "Nine": False}
+isSolved = {"One":False, "Two":False,
+            "Three":False, "Four":False,
+            "Five":False, "Six":False,
+            "Seven":False, "Eight":True,
+            "Nine": True}
 champion_data = None
 with open("../Data/Champions.yaml", 'r') as stream:
     champion_data = safe_load(stream)
