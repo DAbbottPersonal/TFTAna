@@ -6,31 +6,57 @@ from yaml import safe_load, dump
 from itertools import product
 from itertools import combinations
 
+enable_fates = False
+
 def checkSynergies(check_champs, all_syn, all_champs):
-    traits = [ "Astro",
-            "Battlecast",
-            "Blademaster",
-            "Blaster",
-            "Brawler",
-            "Celestial",
-            "Chrono",
-            "Cybernetic",
-            "Dark Star",
-            "Demolitionist",
-            "Infiltrator",
-            "Mana-Reaver",
-            "Mech Pilot",
-            "Mercenary",
-            "Mystic",
-            "Paragon",
-            "Protector",
-            "Rebel",
-            "Sniper",
-            "Sorcerer",
-            "Space Pirate",
-            "Starship",
-            "Star Guardian",
-            "Vanguard"]
+    traits  = [ "Adept",
+                "Assassin",
+                "Brawler",
+                "Cultist",
+                "Dazzler",
+                "Divine",
+                "Duelist",
+                "Dusk",
+                "Elderwood",
+                "Emperor",
+                "Enlightened",
+                "Exile",
+                "Fortune",
+                "Hunter",
+                "Keeper",
+                "Mage",
+                "Moonlight",
+                "Mystic",
+                "Ninja",
+                "Shade",
+                "Sharpshooter",
+                "Spirit",
+                "The Boss",
+                "Tormented",
+                "Warlord",
+                "Vanguard"]
+
+    fates   = [ "Adept",
+                "Assassin",
+                "Brawler",
+                "Cultist",
+                "Dazzler",
+                "Divine",
+                "Duelist",
+                "Dusk",
+                "Elderwood",
+                "Enlightened",
+                "Fortune",
+                "Hunter",
+                "Keeper",
+                "Mage",
+                "Moonlight",
+                "Mystic",
+                "Shade",
+                "Sharpshooter",
+                "Spirit",
+                "Warlord",
+                "Vanguard"]
 
     synergy_tally = {}
     synergy_set   = []
@@ -39,21 +65,30 @@ def checkSynergies(check_champs, all_syn, all_champs):
         for cur_trait in all_champs[cur_champ]["Traits"]:
             synergy_tally[cur_trait] += 1
             if cur_trait not in synergy_set: synergy_set.append(cur_trait)
+            
     #print (synergy_tally)
+    chosen = False
     for synergy in synergy_set:
         #print ("Testing synergy: " + synergy)
         #print ("With a tally of: " + str(synergy_tally[synergy]))
-        if synergy_tally[synergy] not in all_syn[synergy]: return False
-
+        if synergy_tally[synergy] not in all_syn[synergy]:
+            # Try to make the trait chosen, since it fails anyway!
+            if synergy in fates and not chosen and enable_fates:
+                synergy_tally[synergy] += 1
+                chosen = True
+                if synergy_tally[synergy] not in all_syn[synergy]:
+                    return False
+            else:
+                return False
     return True
 
 # Uses test case of Rakan and Xin
 def testPass(all_syn, all_champs):
-    return checkSynergies(["Rakan","Xin Zhao"], all_syn, all_champs)
+    return checkSynergies(["Lee Sin","Jax"], all_syn, all_champs)
     
 def testFail(all_syn, all_champs):
-    case_1 = checkSynergies(["Rakan","Xin Zhao","Ashe"], all_syn, all_champs)
-    case_2 = checkSynergies(["Aurelion Sol"], all_syn, all_champs)
+    case_1 = checkSynergies(["Lee Sin","Xin Zhao","Jax"], all_syn, all_champs)
+    case_2 = checkSynergies(["Sett"], all_syn, all_champs)
     return (case_1 and case_2)
 
 def run_tests(all_syn, all_champs):
@@ -105,7 +140,7 @@ for level in range(1,10,1):
 
 
 total_perf = 0
-for level in range(1,8,1):
+for level in range(8,9,1):
     print ("Running on level: ",str(level))
     test_list = combinations(champs_by_level[str(level)], level)
     print ("List made")
@@ -118,6 +153,9 @@ for level in range(1,8,1):
     print (perfect_syn)
     total_perf += len(perfect_syn)
     oname = ''.join(["Perfect_level",str(level),".yaml"])
+    if enable_fates:
+        oname = ''.join(["Perfect_level",str(level),"_wFates",".yaml"])
+
     with io.open(oname, 'w', encoding='utf8') as outfile:
         dump(perfect_syn, outfile, default_flow_style=False, allow_unicode=True)
 

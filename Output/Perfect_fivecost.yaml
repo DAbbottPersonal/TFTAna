@@ -1,20 +1,30 @@
-- - Blitzcrank
-  - Malphite
-  - Master Yi
-  - Riven
+- !!python/tuple
+  - Lissandra
+  - Aphelios
+  - Sylas
+  - Lux
+  - Warick
+- !!python/tuple
+  - Maokai
+  - Wukong
+  - Hecarim
+  - Ashe
+  - Warick
+- !!python/tuple
+  - Wukong
+  - Hecarim
+  - Nunu
+  - Ashe
+  - Warick
+- !!python/tuple
   - Yasuo
-- - Blitzcrank
-  - Malphite
-  - Master Yi
+  - Janna
+  - Jax
+  - Irelia
   - Shen
-  - Yasuo
-- - Ezreal
-  - Jinx
-  - Master Yi
-  - Riven
-  - Yasuo
-- - Ezreal
-  - Jinx
-  - Master Yi
-  - Shen
-  - Yasuo
+- !!python/tuple
+  - Lulu
+  - Kindred
+  - Veigar
+  - Ahri
+  - Ashe

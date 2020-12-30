@@ -1,156 +1,245 @@
-- - Ashe
-  - Caitlyn
-  - Jarvin IV
-  - Mordekaiser
-  - Rakan
-  - Wukong
-- - Ashe
-  - Caitlyn
-  - Jarvin IV
-  - Mordekaiser
-  - Wukong
+- !!python/tuple
+  - Elise
+  - Fiora
+  - Pyke
+  - Kalista
+  - Kennen
+  - Talon
+- !!python/tuple
+  - Elise
+  - Garen
+  - Nidalee
+  - Jarvan IV
+  - Aatrox
+  - Jhin
+- !!python/tuple
+  - Elise
+  - Garen
+  - Jarvan IV
+  - Kalista
   - Xin Zhao
-- - Blitzcrank
-  - Caitlyn
-  - Cassiopeia
-  - Illaoi
-  - Jhin
-  - Karma
-- - Blitzcrank
-  - Caitlyn
-  - Illaoi
-  - Jhin
-  - Nocturne
-  - Shaco
-- - Blitzcrank
-  - Cassiopeia
-  - Illaoi
-  - Karma
-  - Mordekaiser
-  - Wukong
-- - Blitzcrank
-  - Ezreal
-  - Illaoi
-  - Kog Maw
-  - Rakan
+  - Aatrox
+- !!python/tuple
+  - Elise
+  - Nidalee
+  - Jarvan IV
+  - Kalista
   - Xin Zhao
-- - Blitzcrank
-  - Graves
-  - Illaoi
-  - Jayce
-  - Kog Maw
-  - Wukong
-- - Blitzcrank
-  - Illaoi
-  - Mordekaiser
-  - Nocturne
-  - Shaco
-  - Wukong
-- - Blitzcrank
-  - Illaoi
-  - Rakan
-  - Twisted Fate
-  - Viktor
-  - Xin Zhao
-- - Caitlyn
-  - Cassiopeia
-  - Ezreal
   - Jhin
-  - Karma
-  - Kog Maw
-- - Caitlyn
-  - Cassiopeia
-  - Jhin
-  - Karma
-  - Twisted Fate
-  - Viktor
-- - Caitlyn
-  - Ezreal
-  - Graves
-  - Jayce
-  - Jhin
-  - Mordekaiser
-- - Caitlyn
-  - Ezreal
-  - Jhin
-  - Kog Maw
-  - Nocturne
-  - Shaco
-- - Caitlyn
-  - Jhin
-  - Mordekaiser
-  - Rakan
-  - Wukong
-  - Xin Zhao
-- - Caitlyn
-  - Jhin
-  - Nocturne
-  - Shaco
-  - Twisted Fate
-  - Viktor
-- - Cassiopeia
-  - Ezreal
-  - Karma
-  - Kog Maw
-  - Mordekaiser
-  - Wukong
-- - Cassiopeia
-  - Graves
-  - Jayce
-  - Karma
-  - Kog Maw
-  - Mordekaiser
-- - Cassiopeia
-  - Karma
-  - Mordekaiser
-  - Twisted Fate
-  - Viktor
-  - Wukong
-- - Cassiopeia
-  - Karma
-  - Nocturne
-  - Rakan
-  - Shaco
-  - Xin Zhao
-- - Ezreal
-  - Graves
-  - Jayce
-  - Rakan
-  - Wukong
-  - Xin Zhao
-- - Ezreal
-  - Kog Maw
-  - Mordekaiser
-  - Nocturne
-  - Shaco
-  - Wukong
-- - Ezreal
-  - Kog Maw
-  - Rakan
-  - Twisted Fate
-  - Viktor
-  - Xin Zhao
-- - Gnar
-  - Leona
-  - Nautilus
-  - Teemo
+- !!python/tuple
+  - Elise
   - Vayne
+  - Yasuo
+  - Kalista
+  - Jhin
+  - Riven
+- !!python/tuple
+  - Elise
+  - Vayne
+  - Pyke
+  - Akali
+  - Jhin
+  - Riven
+- !!python/tuple
+  - Elise
+  - Vayne
+  - Thresh
+  - Kennen
+  - Aatrox
+  - Jhin
+- !!python/tuple
+  - Elise
+  - Vayne
+  - Zed
+  - Evelynn
+  - Jhin
+  - Riven
+- !!python/tuple
+  - Elise
+  - Wukong
+  - Jax
+  - Kalista
+  - Kennen
+  - Aatrox
+- !!python/tuple
+  - Elise
+  - Yasuo
+  - Thresh
+  - Kalista
+  - Aatrox
+  - Riven
+- !!python/tuple
+  - Elise
+  - Pyke
+  - Thresh
+  - Akali
+  - Aatrox
+  - Riven
+- !!python/tuple
+  - Elise
+  - Thresh
+  - Zed
+  - Evelynn
+  - Aatrox
+  - Riven
+- !!python/tuple
+  - Fiora
+  - Wukong
+  - Janna
+  - Jax
+  - Thresh
+  - Cassiopeia
+- !!python/tuple
+  - Fiora
+  - Yasuo
+  - Janna
+  - Kennen
+  - Cassiopeia
+  - Riven
+- !!python/tuple
+  - Fiora
+  - Pyke
+  - Zed
+  - Evelynn
+  - Kalista
+  - Talon
+- !!python/tuple
+  - Garen
+  - Nidalee
+  - Tahm Kench
   - Vi
-- - Graves
-  - Jayce
-  - Kog Maw
-  - Mordekaiser
-  - Nocturne
-  - Shaco
-- - Graves
-  - Jayce
-  - Kog Maw
-  - Twisted Fate
-  - Viktor
+  - Jinx
+  - Sejuani
+- !!python/tuple
+  - Garen
+  - Nidalee
+  - Vayne
+  - Yasuo
+  - Thresh
+  - Xin Zhao
+- !!python/tuple
+  - Garen
+  - Nidalee
+  - Vayne
+  - Jarvan IV
+  - Thresh
+  - Kennen
+- !!python/tuple
+  - Garen
+  - Nidalee
+  - Akali
+  - Jinx
+  - Katarina
+  - Sejuani
+- !!python/tuple
+  - Garen
+  - Nidalee
+  - Kalista
+  - Xin Zhao
+  - Aatrox
+  - Jhin
+- !!python/tuple
+  - Garen
+  - Tahm Kench
+  - Vi
+  - Akali
+  - Katarina
+  - Sejuani
+- !!python/tuple
+  - Garen
   - Wukong
-- - Mordekaiser
-  - Nocturne
-  - Shaco
-  - Twisted Fate
-  - Viktor
+  - Jarvan IV
+  - Jax
+  - Kennen
+  - Xin Zhao
+- !!python/tuple
+  - Garen
+  - Yasuo
+  - Jarvan IV
+  - Thresh
+  - Xin Zhao
+  - Riven
+- !!python/tuple
+  - Maokai
   - Wukong
+  - Yasuo
+  - Hecarim
+  - Jax
+  - Nunu
+- !!python/tuple
+  - Maokai
+  - Hecarim
+  - Thresh
+  - Kennen
+  - Nunu
+  - Riven
+- !!python/tuple
+  - Nidalee
+  - Tahm Kench
+  - Vi
+  - Akali
+  - Jinx
+  - Katarina
+- !!python/tuple
+  - Nidalee
+  - Vayne
+  - Yasuo
+  - Jarvan IV
+  - Xin Zhao
+  - Riven
+- !!python/tuple
+  - Vayne
+  - Yasuo
+  - Thresh
+  - Kalista
+  - Aatrox
+  - Jhin
+- !!python/tuple
+  - Vayne
+  - Pyke
+  - Thresh
+  - Akali
+  - Aatrox
+  - Jhin
+- !!python/tuple
+  - Vayne
+  - Thresh
+  - Zed
+  - Evelynn
+  - Aatrox
+  - Jhin
+- !!python/tuple
+  - Wukong
+  - Yasuo
+  - Jax
+  - Thresh
+  - Kennen
+  - Riven
+- !!python/tuple
+  - Wukong
+  - Janna
+  - Thresh
+  - Lux
+  - Cassiopeia
+  - Morgana
+- !!python/tuple
+  - Wukong
+  - Jax
+  - Pyke
+  - Akali
+  - Kalista
+  - Aatrox
+- !!python/tuple
+  - Wukong
+  - Jax
+  - Zed
+  - Evelynn
+  - Kalista
+  - Aatrox
+- !!python/tuple
+  - Yasuo
+  - Jax
+  - Akali
+  - Lux
+  - Morgana
+  - Talon

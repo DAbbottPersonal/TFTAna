@@ -4,295 +4,302 @@
 # Champion (name):
 #   Cost:
 #   Traits:
-#   - Trait 2
-#   - Trait 1
+#     - Trait 2
+#     - Trait 1
 #
 
-Ahri:
-  Cost: 2
+Aatrox:
+  Cost: 4
   Traits:
-  - Star Guardian
-  - Sorcerer
+    - Cultist
+    - Vanguard
+Ahri:
+  Cost: 4
+  Traits:
+    - Spirit
+    - Mage
+Akali:
+  Cost: 3
+  Traits:
+    - Ninja
+    - Assassin
 Annie:
   Cost: 2
   Traits:
-  - Mech Pilot
-  - Sorcerer
-Ashe:
-  Cost: 3
-  Traits:
-  - Celestial
-  - Sniper
-Aurelion Sol:
-  Cost: 5
-  Traits:
-  - Rebel
-  - Starship
-Bard:
-  Cost: 3
-  Traits:
-  - Astro
-  - Mystic
-Blitzcrank:
+    - Fortune
+    - Mage
+Aphelios:
   Cost: 2
   Traits:
-  - Brawler
-  - Chrono
-Caitlyn:
+    - Moonlight
+    - Hunter
+Ashe:
+  Cost: 4
+  Traits:
+    - Elderwood
+    - Hunter
+Azir:
+  Cost: 5
+  Traits:
+    - Warlord
+    - Keeper
+    - Emperor
+Cassiopeia:
+  Cost: 4
+  Traits:
+    - Dusk
+    - Mystic
+Diana:
   Cost: 1
   Traits:
-  - Chrono
-  - Sniper
-Cassiopeia:
+    - Moonlight
+    - Assassin
+Elise:
+  Cost: 1
+  Traits:
+    - Cultist
+    - Keeper
+Evelynn:
   Cost: 3
   Traits:
-  - Battlecast
-  - Mystic
-Darius:
-  Cost: 2
-  Traits:
-  - Mana-Reaver
-  - Space Pirate
-Ekko:
+    - Cultist
+    - Shade
+Ezreal:
   Cost: 5
   Traits:
-  - Cybernetic
-  - Infiltrator
-Ezreal:
-  Cost: 3
-  Traits:
-  - Blaster
-  - Chrono
+    - Elderwood
+    - Dazzler
 Fiora:
   Cost: 1
   Traits:
-  - Blademaster
-  - Cybernetic
-Fizz:
-  Cost: 4
-  Traits:
-  - Infiltrator
-  - Mech Pilot
-Gangplank:
-  Cost: 5
-  Traits:
-  - Demolitionist
-  - Mercenary
-  - Space Pirate
-Gnar:
-  Cost: 4
-  Traits:
-  - Astro
-  - Brawler
-Graves:
+    - Enlightened
+    - Duelist
+Garen:
   Cost: 1
   Traits:
-  - Blaster
-  - Space Pirate
-Illaoi:
-  Cost: 1
+    - Warlord
+    - Vanguard
+Hecarim:
+  Cost: 2
   Traits:
-  - Battlecast
-  - Brawler
+    - Elderwood
+    - Vanguard
 Irelia:
-  Cost: 4
-  Traits:
-  - Blademaster
-  - Cybernetic
-  - Mana-Reaver
-Janna:
-  Cost: 5
-  Traits:
-  - Paragon
-  - Star Guardian
-Jarvin IV:
-  Cost: 1
-  Traits:
-  - Dark Star
-  - Protector
-Jayce:
   Cost: 3
   Traits:
-  - Space Pirate
-  - Vanguard
+    - Enlightened
+    - Divine
+    - Adept
+Janna:
+  Cost: 2
+  Traits:
+    - Enlightened
+    - Mystic
+Jarvan IV:
+  Cost: 2
+  Traits:
+    - Warlord
+    - Keeper
+Jax:
+  Cost: 2
+  Traits:
+    - Divine
+    - Duelist
 Jhin:
   Cost: 4
   Traits:
-  - Dark Star
-  - Sniper
+    - Cultist
+    - Sharpshooter
 Jinx:
-  Cost: 4
-  Traits:
-  - Blaster
-  - Rebel
-Karma:
   Cost: 3
   Traits:
-  - Dark Star
-  - Mystic
-Kog Maw:
-  Cost: 2
+    - Fortune
+    - Sharpshooter
+Kalista:
+  Cost: 3
   Traits:
-  - Battlecast
-  - Blaster
-Leona:
-  Cost: 1
+    - Cultist
+    - Duelist
+Katarina:
+  Cost: 3
   Traits:
-  - Cybernetic
-  - Vanguard
-Lucian:
-  Cost: 2
-  Traits:
-  - Blaster
-  - Cybernetic
-Lulu:
+    - Warlord
+    - Fortune
+    - Assassin
+Kayn:
   Cost: 5
   Traits:
-  - Celestial
-  - Mystic
-Malphite:
-  Cost: 1
-  Traits:
-  - Brawler
-  - Rebel
-Master Yi:
+    - Tormented
+    - Shade
+Kennen:
   Cost: 3
   Traits:
-  - Blademaster
-  - Rebel
-Mordekaiser:
-  Cost: 2
-  Traits:
-  - Dark Star
-  - Vanguard
-Nautilus:
-  Cost: 2
-  Traits:
-  - Astro
-  - Vanguard
-Neeko:
+    - Ninja
+    - Keeper
+Kindred:
   Cost: 3
   Traits:
-  - Protector
-  - Star Guardian
-Nocturne:
+    - Spirit
+    - Hunter
+Lee Sin:
+  Cost: 5
+  Traits:
+    - Divine
+    - Duelist
+Lillia:
+  Cost: 5
+  Traits:
+    - Dusk
+    - Mage
+Lissandra:
   Cost: 1
   Traits:
-  - Battlecast
-  - Infiltrator
-Poppy:
-  Cost: 1
-  Traits:
-  - Vanguard
-  - Star Guardian
-Rakan:
+    - Moonlight
+    - Dazzler
+Lulu:
   Cost: 2
   Traits:
-  - Celestial
-  - Protector
+    - Elderwood
+    - Mage
+Lux:
+  Cost: 3
+  Traits:
+    - Divine
+    - Dazzler
+Maokai:
+  Cost: 1
+  Traits:
+    - Elderwood
+    - Brawler
+Morgana:
+  Cost: 4
+  Traits:
+    - Enlightened
+    - Dazzler
+Nami:
+  Cost: 1
+  Traits:
+    - Enlightened
+    - Mage
+Nidalee:
+  Cost: 1
+  Traits:
+    - Warlord
+    - Sharpshooter
+Nunu:
+  Cost: 3
+  Traits:
+    - Elderwood
+    - Brawler
+Pyke:
+  Cost: 2
+  Traits:
+    - Cultist
+    - Assassin
 Riven:
   Cost: 4
   Traits:
-  - Blademaster
-  - Chrono
-Rumble:
-  Cost: 3
-  Traits:
-  - Demolitionist
-  - Mech Pilot
-Shaco:
-  Cost: 3
-  Traits:
-  - Dark Star
-  - Infiltrator
-Shen:
-  Cost: 2
-  Traits:
-  - Blademaster
-  - Chrono
-Soraka:
+    - Dusk
+    - Keeper
+Sejuani:
   Cost: 4
   Traits:
-  - Mystic
-  - Star Guardian   
-Syndra:
-  Cost: 3
-  Traits:
-  - Sorcerer
-  - Star Guardian
-Teemo:
-  Cost: 4
-  Traits:
-  - Astro
-  - Sniper
-Thresh:
+    - Fortune
+    - Vanguard
+Sett:
   Cost: 5
   Traits:
-  - Chrono
-  - Mana-Reaver
+    - The Boss
+    - Brawler
+Shen:
+  Cost: 4
+  Traits:
+    - Ninja
+    - Adept
+    - Mystic
+Sylas:
+  Cost: 2
+  Traits:
+    - Moonlight
+    - Brawler
+Tahm Kench:
+  Cost: 1
+  Traits:
+    - Fortune
+    - Brawler
+Talon:
+  Cost: 4
+  Traits:
+    - Enlightened
+    - Assassin
+Teemo:
+  Cost: 2
+  Traits:
+    - Spirit
+    - Sharpshooter
+Thresh:
+  Cost: 2
+  Traits:
+    - Dusk
+    - Vanguard
 Twisted Fate:
   Cost: 1
   Traits:
-  - Chrono
-  - Sorcerer
-Urgot:
-  Cost: 5
-  Traits:
-  - Battlecast
-  - Protector
+    - Cultist
+    - Mage
 Vayne:
-  Cost: 3
-  Traits:
-  - Cybernetic
-  - Sniper
-Vi:
-  Cost: 3
-  Traits:
-  - Brawler
-  - Cybernetic
-Viktor:
-  Cost: 4
-  Traits:
-  - Battlecast
-  - Sorcerer
-Wukong:
-  Cost: 4
-  Traits:
-  - Chrono
-  - Vanguard
-Xayah:
   Cost: 1
   Traits:
-  - Blademaster
-  - Celestial
-
-Xerath:
+    - Dusk
+    - Sharpshooter
+Veigar:
+  Cost: 3
+  Traits:
+    - Elderwood
+    - Mage
+Vi:
+  Cost: 2
+  Traits:
+    - Warlord
+    - Brawler
+Warick:
+  Cost: 4
+  Traits:
+    - Divine
+    - Hunter
+    - Brawler
+Wukong:
+  Cost: 1
+  Traits:
+    - Divine
+    - Vanguard
+Xin Zhao:
+  Cost: 3
+  Traits:
+    - Warlord
+    - Duelist
+Yasuo:
+  Cost: 1
+  Traits:
+    - Exile
+    - Duelist
+Yone:
   Cost: 5
   Traits:
-  - Dark Star
-  - Sorcerer      
-Xin Zhao:
-  Cost: 2
+    - Exile
+    - Adept
+Yuumi:
+  Cost: 3
   Traits:
-  - Celestial
-  - Protector
-Yasuo:
-  Cost: 2
-  Traits:
-  - Blademaster
-  - Rebel
+    - Spirit
+    - Mystic
 Zed:
   Cost: 2
   Traits:
-  - Infiltrator
-  - Rebel
-Ziggs:
-  Cost: 1
+    - Ninja
+    - Shade
+Zilean:
+  Cost: 5
   Traits:
-  - Demolitionist
-  - Rebel      
-Zoe:
-  Cost: 1
-  Traits:
-  - Sorcerer
-  - Star Guardian
+    - Cultist
+    - Mystic

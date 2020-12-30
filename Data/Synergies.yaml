@@ -1,79 +1,97 @@
-Astro:
+Adept:
+  - 2
   - 3
-Battlecast:
+  - 4
+Assassin:
   - 2
   - 4
   - 6
-  - 8
-Blademaster:
-  - 3
-  - 6
-Blaster:
-  - 2
-  - 4
 Brawler:
   - 2
   - 4
-Celestial:
-  - 2
-  - 4
-  - 6
-Chrono:
-  - 2
-  - 4
   - 6
   - 8
-Cybernetic:
-  - 3
-  - 6
-Dark Star:
-  - 2
-  - 4
-  - 6
-  - 8
-Demolitionist:
-  - 2
-Infiltrator:
-  - 2
-  - 4
-  - 6
-Mana-Reaver:
-  - 2
-Mech Pilot:
-  - 3
-Mercenary:
-  - 1
-Mystic:
-  - 2
-  - 4
-Paragon:
-  - 1
-Protector:
-  - 2
-  - 4
-  - 6
-Rebel:
+Cultist:
   - 3
   - 6
   - 9
-Sniper:
+Dazzler:
   - 2
   - 4
-Sorcerer:
+Divine:
   - 2
   - 4
   - 6
   - 8
-Space Pirate:
+Duelist:
   - 2
   - 4
-Starship:
-  - 1
-Star Guardian:
+  - 6
+  - 8
+Dusk:
+  - 2
+  - 4
+  - 6
+Elderwood:
   - 3
   - 6
+  - 9
+Emperor:
+  - 1
+Enlightened:
+  - 2
+  - 4
+  - 6
+Exile:
+  - 1
+  - 2
+Fortune:
+  - 3
+  - 6
+Hunter:
+  - 2
+  - 3
+  - 4
+  - 5
+Keeper:
+  - 2
+  - 4
+  - 6
+Mage:
+  - 3
+  - 6
+  - 9
+Moonlight:
+  - 3
+  - 6
+Mystic:
+  - 2
+  - 4
+  - 6
+Ninja:
+  - 1
+  - 4
+Shade:
+  - 2
+  - 3
+  - 4
+Sharpshooter:
+  - 2
+  - 4
+  - 6
+Spirit:
+  - 2
+  - 4
+The Boss:
+  - 1
+Tormented:
+  - 1
 Vanguard:
   - 2
   - 4
   - 6
-
+  - 8
+Warlord:
+  - 3
+  - 6
+  - 9 

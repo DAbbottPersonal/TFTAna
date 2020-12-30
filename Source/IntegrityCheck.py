@@ -5,62 +5,64 @@
 from yaml import safe_load, dump
 
 # Expected Values
-totCost = 158
-nChamps = 57
+totCost = 162
+nChamps = 58
 nCosts  = {"one": 13,
            "two": 13,
            "three": 13,
-           "four": 10,
+           "four": 11,
            "five": 8}
-nTraits = { "Astro" : 4,
-            "Battlecast" : 6,
-            "Blademaster" : 7,
-            "Blaster" : 5,
-            "Brawler" : 5,
-            "Celestial" : 5,
-            "Chrono" : 8,
-            "Cybernetic" : 7,
-            "Dark Star" : 6,
-            "Demolitionist" : 3,
-            "Infiltrator" : 5,
-            "Mana-Reaver" : 3,
-            "Mech Pilot" : 3,
-            "Mercenary" : 1,
-            "Mystic" : 5,
-            "Paragon" : 1,
-            "Protector" : 5,
-            "Rebel" : 7,
-            "Sniper" : 5,
-            "Sorcerer" : 7,
-            "Space Pirate" : 4,
-            "Starship" : 1,
-            "Star Guardian" : 7,
-            "Vanguard" : 6}
-
-
-traits = [ "Astro",
-            "Battlecast",
-            "Blademaster",
-            "Blaster",
+nTraits = { "Adept":3,
+            "Assassin":5,
+            "Brawler":7,
+            "Cultist":8,
+            "Dazzler":4,
+            "Divine":6,
+            "Duelist":6,
+            "Dusk":5,
+            "Elderwood":7,
+            "Emperor":1,
+            "Enlightened":6,
+            "Exile":2,
+            "Fortune":5,
+            "Hunter":4,
+            "Keeper":5,
+            "Mage":7,
+            "Moonlight":4,
+            "Mystic":5,
+            "Ninja":4,
+            "Shade":3,
+            "Sharpshooter":5,
+            "Spirit":4,
+            "The Boss":1,
+            "Tormented":1,
+            "Warlord":7,
+            "Vanguard":6}
+traits  = [ "Adept",
+            "Assassin",
             "Brawler",
-            "Celestial",
-            "Chrono",
-            "Cybernetic",
-            "Dark Star",
-            "Demolitionist",
-            "Infiltrator",
-            "Mana-Reaver",
-            "Mech Pilot",
-            "Mercenary",
+            "Cultist",
+            "Dazzler",
+            "Divine",
+            "Duelist",
+            "Dusk",
+            "Elderwood",
+            "Emperor",
+            "Enlightened",
+            "Exile",
+            "Fortune",
+            "Hunter",
+            "Keeper",
+            "Mage",
+            "Moonlight",
             "Mystic",
-            "Paragon",
-            "Protector",
-            "Rebel",
-            "Sniper",
-            "Sorcerer",
-            "Space Pirate",
-            "Starship",
-            "Star Guardian",
+            "Ninja",
+            "Shade",
+            "Sharpshooter",
+            "Spirit",
+            "The Boss",
+            "Tormented",
+            "Warlord",
             "Vanguard"]
 
 # Load yaml
@@ -86,7 +88,6 @@ for cur_trait in traits:
     if nTraits[cur_trait] != cur_traits[cur_trait]:
         isMatch = False
         print ("Error in "+ cur_trait)
-        break
 if isMatch: 
     print ("Okay!")
 

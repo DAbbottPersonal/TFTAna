@@ -1,2548 +1,1248 @@
-- - Ahri
-  - Ashe
-  - Caitlyn
-  - Janna
-  - Lulu
-  - Soraka
-  - Twisted Fate
-- - Ahri
-  - Ashe
-  - Caitlyn
-  - Janna
-  - Neeko
-  - Rakan
-  - Twisted Fate
-- - Ahri
-  - Ashe
-  - Caitlyn
-  - Janna
-  - Neeko
-  - Twisted Fate
-  - Xin Zhao
-- - Ahri
-  - Ashe
-  - Janna
-  - Jarvin IV
-  - Jhin
-  - Rakan
-  - Syndra
-- - Ahri
-  - Ashe
-  - Janna
-  - Jarvin IV
-  - Jhin
-  - Rakan
-  - Zoe
-- - Ahri
-  - Ashe
-  - Janna
-  - Jarvin IV
-  - Jhin
-  - Syndra
-  - Xin Zhao
-- - Ahri
-  - Ashe
-  - Janna
-  - Jarvin IV
-  - Jhin
-  - Xin Zhao
-  - Zoe
-- - Ahri
-  - Ashe
-  - Janna
-  - Jhin
-  - Karma
-  - Lulu
-  - Syndra
-- - Ahri
-  - Ashe
-  - Janna
-  - Jhin
-  - Karma
-  - Lulu
-  - Zoe
-- - Ahri
-  - Ashe
-  - Janna
-  - Jhin
-  - Lulu
-  - Soraka
-  - Xerath
-- - Ahri
-  - Ashe
-  - Janna
-  - Jhin
-  - Neeko
-  - Rakan
-  - Xerath
-- - Ahri
-  - Ashe
-  - Janna
-  - Jhin
-  - Neeko
-  - Xerath
-  - Xin Zhao
-- - Ahri
-  - Blitzcrank
-  - Cassiopeia
-  - Illaoi
-  - Janna
-  - Soraka
-  - Twisted Fate
-- - Ahri
-  - Blitzcrank
-  - Ezreal
-  - Illaoi
-  - Janna
-  - Kog Maw
-  - Syndra
-- - Ahri
-  - Blitzcrank
-  - Ezreal
-  - Illaoi
-  - Janna
-  - Kog Maw
-  - Zoe
-- - Ahri
-  - Blitzcrank
-  - Illaoi
-  - Janna
-  - Neeko
-  - Twisted Fate
-  - Urgot
-- - Ahri
-  - Blitzcrank
-  - Illaoi
-  - Janna
-  - Poppy
-  - Viktor
-  - Wukong
-- - Ahri
-  - Blitzcrank
-  - Illaoi
-  - Janna
-  - Syndra
-  - Twisted Fate
-  - Viktor
-- - Ahri
-  - Blitzcrank
-  - Illaoi
-  - Janna
-  - Twisted Fate
-  - Viktor
-  - Zoe
-- - Ahri
-  - Caitlyn
-  - Janna
-  - Jarvin IV
-  - Jhin
-  - Neeko
-  - Twisted Fate
-- - Ahri
-  - Caitlyn
-  - Janna
-  - Jhin
-  - Karma
-  - Soraka
-  - Twisted Fate
-- - Ahri
-  - Caitlyn
-  - Janna
-  - Jhin
-  - Mordekaiser
-  - Poppy
-  - Twisted Fate
-- - Ahri
-  - Caitlyn
-  - Janna
-  - Jhin
-  - Mordekaiser
-  - Syndra
-  - Wukong
-- - Ahri
-  - Caitlyn
-  - Janna
-  - Jhin
-  - Mordekaiser
-  - Wukong
-  - Zoe
-- - Ahri
-  - Caitlyn
-  - Janna
-  - Jhin
-  - Poppy
-  - Wukong
-  - Xerath
-- - Ahri
-  - Caitlyn
-  - Janna
-  - Jhin
-  - Syndra
-  - Twisted Fate
-  - Xerath
-- - Ahri
-  - Caitlyn
-  - Janna
-  - Jhin
-  - Twisted Fate
-  - Xerath
-  - Zoe
-- - Ahri
-  - Cassiopeia
-  - Ezreal
-  - Janna
-  - Kog Maw
-  - Soraka
-  - Twisted Fate
-- - Ahri
-  - Cassiopeia
-  - Janna
-  - Jarvin IV
-  - Karma
-  - Neeko
-  - Viktor
-- - Ahri
-  - Cassiopeia
-  - Janna
-  - Jarvin IV
-  - Karma
-  - Syndra
-  - Urgot
-- - Ahri
-  - Cassiopeia
-  - Janna
-  - Jarvin IV
-  - Karma
-  - Urgot
-  - Zoe
-- - Ahri
-  - Cassiopeia
-  - Janna
-  - Jarvin IV
-  - Soraka
-  - Urgot
-  - Xerath
-- - Ahri
-  - Cassiopeia
-  - Janna
-  - Karma
-  - Mordekaiser
-  - Poppy
-  - Viktor
-- - Ahri
-  - Cassiopeia
-  - Janna
-  - Karma
-  - Neeko
-  - Urgot
-  - Xerath
-- - Ahri
-  - Cassiopeia
-  - Janna
-  - Karma
-  - Nocturne
-  - Shaco
-  - Syndra
-- - Ahri
-  - Cassiopeia
-  - Janna
-  - Karma
-  - Nocturne
-  - Shaco
-  - Zoe
-- - Ahri
-  - Cassiopeia
-  - Janna
-  - Karma
-  - Syndra
-  - Viktor
-  - Xerath
-- - Ahri
-  - Cassiopeia
-  - Janna
-  - Karma
-  - Viktor
-  - Xerath
-  - Zoe
-- - Ahri
-  - Cassiopeia
-  - Janna
-  - Lulu
-  - Neeko
-  - Rakan
-  - Viktor
-- - Ahri
-  - Cassiopeia
-  - Janna
-  - Lulu
-  - Neeko
-  - Viktor
-  - Xin Zhao
-- - Ahri
-  - Cassiopeia
-  - Janna
-  - Lulu
-  - Rakan
-  - Syndra
-  - Urgot
-- - Ahri
-  - Cassiopeia
-  - Janna
-  - Lulu
-  - Rakan
-  - Urgot
-  - Zoe
-- - Ahri
-  - Cassiopeia
-  - Janna
-  - Lulu
-  - Syndra
-  - Urgot
-  - Xin Zhao
-- - Ahri
-  - Cassiopeia
-  - Janna
-  - Lulu
-  - Urgot
-  - Xin Zhao
-  - Zoe
-- - Ahri
-  - Cassiopeia
-  - Janna
-  - Nocturne
-  - Shaco
-  - Soraka
-  - Xerath
-- - Ahri
-  - Cassiopeia
-  - Janna
-  - Rakan
-  - Soraka
-  - Viktor
-  - Xin Zhao
-- - Ahri
-  - Darius
-  - Ezreal
-  - Graves
-  - Janna
-  - Syndra
-  - Thresh
-- - Ahri
-  - Darius
-  - Ezreal
-  - Graves
-  - Janna
-  - Thresh
-  - Zoe
-- - Ahri
-  - Darius
-  - Janna
-  - Jayce
-  - Poppy
-  - Thresh
-  - Twisted Fate
-- - Ahri
-  - Darius
-  - Janna
-  - Jayce
-  - Syndra
-  - Thresh
-  - Wukong
-- - Ahri
-  - Darius
-  - Janna
-  - Jayce
-  - Thresh
-  - Wukong
-  - Zoe
-- - Ahri
-  - Ezreal
-  - Graves
-  - Janna
-  - Jayce
-  - Poppy
-  - Twisted Fate
-- - Ahri
-  - Ezreal
-  - Graves
-  - Janna
-  - Jayce
-  - Syndra
-  - Wukong
-- - Ahri
-  - Ezreal
-  - Graves
-  - Janna
-  - Jayce
-  - Wukong
-  - Zoe
-- - Ahri
-  - Ezreal
-  - Janna
-  - Kog Maw
-  - Neeko
-  - Twisted Fate
-  - Urgot
-- - Ahri
-  - Ezreal
-  - Janna
-  - Kog Maw
-  - Poppy
-  - Viktor
-  - Wukong
-- - Ahri
-  - Ezreal
-  - Janna
-  - Kog Maw
-  - Syndra
-  - Twisted Fate
-  - Viktor
-- - Ahri
-  - Ezreal
-  - Janna
-  - Kog Maw
-  - Twisted Fate
-  - Viktor
-  - Zoe
-- - Ahri
-  - Graves
-  - Janna
-  - Jayce
-  - Kog Maw
-  - Poppy
-  - Viktor
-- - Ahri
-  - Janna
-  - Jarvin IV
-  - Karma
-  - Lulu
-  - Rakan
-  - Syndra
-- - Ahri
-  - Janna
-  - Jarvin IV
-  - Karma
-  - Lulu
-  - Rakan
-  - Zoe
-- - Ahri
-  - Janna
-  - Jarvin IV
-  - Karma
-  - Lulu
-  - Syndra
-  - Xin Zhao
-- - Ahri
-  - Janna
-  - Jarvin IV
-  - Karma
-  - Lulu
-  - Xin Zhao
-  - Zoe
-- - Ahri
-  - Janna
-  - Jarvin IV
-  - Karma
-  - Soraka
-  - Urgot
-  - Viktor
-- - Ahri
-  - Janna
-  - Jarvin IV
-  - Lulu
-  - Rakan
-  - Soraka
-  - Xerath
-- - Ahri
-  - Janna
-  - Jarvin IV
-  - Lulu
-  - Soraka
-  - Xerath
-  - Xin Zhao
-- - Ahri
-  - Janna
-  - Jarvin IV
-  - Mordekaiser
-  - Neeko
-  - Twisted Fate
-  - Wukong
-- - Ahri
-  - Janna
-  - Jarvin IV
-  - Mordekaiser
-  - Poppy
-  - Urgot
-  - Viktor
-- - Ahri
-  - Janna
-  - Jarvin IV
-  - Neeko
-  - Nocturne
-  - Shaco
-  - Viktor
-- - Ahri
-  - Janna
-  - Jarvin IV
-  - Neeko
-  - Rakan
-  - Xerath
-  - Xin Zhao
-- - Ahri
-  - Janna
-  - Jarvin IV
-  - Nocturne
-  - Shaco
-  - Syndra
-  - Urgot
-- - Ahri
-  - Janna
-  - Jarvin IV
-  - Nocturne
-  - Shaco
-  - Urgot
-  - Zoe
-- - Ahri
-  - Janna
-  - Jarvin IV
-  - Syndra
-  - Urgot
-  - Viktor
-  - Xerath
-- - Ahri
-  - Janna
-  - Jarvin IV
-  - Urgot
-  - Viktor
-  - Xerath
-  - Zoe
-- - Ahri
-  - Janna
-  - Karma
-  - Lulu
-  - Neeko
-  - Rakan
-  - Xerath
-- - Ahri
-  - Janna
-  - Karma
-  - Lulu
-  - Neeko
-  - Xerath
-  - Xin Zhao
-- - Ahri
-  - Janna
-  - Karma
-  - Mordekaiser
-  - Soraka
-  - Twisted Fate
-  - Wukong
-- - Ahri
-  - Janna
-  - Karma
-  - Nocturne
-  - Shaco
-  - Soraka
-  - Viktor
-- - Ahri
-  - Janna
-  - Karma
-  - Rakan
-  - Soraka
-  - Xerath
-  - Xin Zhao
-- - Ahri
-  - Janna
-  - Lulu
-  - Rakan
-  - Soraka
-  - Urgot
-  - Viktor
-- - Ahri
-  - Janna
-  - Lulu
-  - Soraka
-  - Urgot
-  - Viktor
-  - Xin Zhao
-- - Ahri
-  - Janna
-  - Mordekaiser
-  - Nocturne
-  - Poppy
-  - Shaco
-  - Viktor
-- - Ahri
-  - Janna
-  - Mordekaiser
-  - Poppy
-  - Rakan
-  - Xerath
-  - Xin Zhao
-- - Ahri
-  - Janna
-  - Mordekaiser
-  - Syndra
-  - Twisted Fate
-  - Wukong
-  - Xerath
-- - Ahri
-  - Janna
-  - Mordekaiser
-  - Twisted Fate
-  - Wukong
-  - Xerath
-  - Zoe
-- - Ahri
-  - Janna
-  - Neeko
-  - Nocturne
-  - Shaco
-  - Urgot
-  - Xerath
-- - Ahri
-  - Janna
-  - Neeko
-  - Rakan
-  - Urgot
-  - Viktor
-  - Xin Zhao
-- - Ahri
-  - Janna
-  - Nocturne
-  - Shaco
-  - Syndra
-  - Viktor
-  - Xerath
-- - Ahri
-  - Janna
-  - Nocturne
-  - Shaco
-  - Viktor
-  - Xerath
-  - Zoe
-- - Ahri
-  - Janna
-  - Poppy
-  - Rakan
-  - Twisted Fate
-  - Wukong
-  - Xin Zhao
-- - Ahri
-  - Lulu
-  - Riven
-  - Shen
-  - Soraka
-  - Syndra
-  - Xayah
-- - Ahri
-  - Lulu
-  - Riven
-  - Shen
-  - Soraka
-  - Xayah
-  - Zoe
-- - Ahri
-  - Neeko
-  - Rakan
-  - Riven
-  - Shen
-  - Syndra
-  - Xayah
-- - Ahri
-  - Neeko
-  - Rakan
-  - Riven
-  - Shen
-  - Xayah
-  - Zoe
-- - Ahri
-  - Neeko
-  - Riven
-  - Shen
-  - Syndra
-  - Xayah
-  - Xin Zhao
-- - Ahri
-  - Neeko
-  - Riven
-  - Shen
-  - Xayah
-  - Xin Zhao
-  - Zoe
-- - Ashe
-  - Blitzcrank
-  - Caitlyn
-  - Malphite
-  - Master Yi
-  - Xayah
-  - Yasuo
-- - Ashe
-  - Blitzcrank
+- !!python/tuple
+  - Diana
   - Fiora
+  - Aphelios
+  - Jax
+  - Sylas
+  - Talon
+  - Warick
+- !!python/tuple
+  - Diana
+  - Fiora
+  - Aphelios
+  - Sylas
+  - Talon
+  - Warick
+  - Lee Sin
+- !!python/tuple
+  - Diana
+  - Lissandra
+  - Aphelios
+  - Akali
+  - Lux
+  - Warick
+  - Sett
+- !!python/tuple
+  - Diana
+  - Yasuo
+  - Aphelios
+  - Jax
+  - Sylas
+  - Akali
+  - Warick
+- !!python/tuple
+  - Diana
+  - Yasuo
+  - Aphelios
+  - Sylas
+  - Akali
+  - Warick
+  - Lee Sin
+- !!python/tuple
+  - Diana
+  - Aphelios
+  - Sylas
+  - Irelia
+  - Talon
+  - Warick
+  - Yone
+- !!python/tuple
+  - Diana
+  - Aphelios
+  - Sylas
+  - Lux
+  - Morgana
+  - Talon
+  - Warick
+- !!python/tuple
+  - Elise
+  - Fiora
+  - Nami
+  - Twisted Fate
+  - Kalista
   - Riven
+  - Lillia
+- !!python/tuple
+  - Elise
+  - Nami
+  - Twisted Fate
+  - Janna
+  - Riven
+  - Lillia
+  - Zilean
+- !!python/tuple
+  - Elise
+  - Nami
+  - Twisted Fate
+  - Pyke
+  - Riven
+  - Talon
+  - Lillia
+- !!python/tuple
+  - Elise
+  - Twisted Fate
+  - Hecarim
+  - Lulu
+  - Kennen
+  - Veigar
+  - Aatrox
+- !!python/tuple
+  - Elise
+  - Twisted Fate
+  - Teemo
+  - Ahri
+  - Jhin
+  - Riven
+  - Lillia
+- !!python/tuple
+  - Elise
+  - Twisted Fate
+  - Yuumi
+  - Ahri
+  - Riven
+  - Lillia
+  - Zilean
+- !!python/tuple
+  - Elise
   - Vayne
+  - Zed
+  - Evelynn
+  - Jhin
+  - Riven
+  - Kayn
+- !!python/tuple
+  - Elise
+  - Vayne
+  - Jhin
+  - Riven
+  - Shen
+  - Yone
+  - Zilean
+- !!python/tuple
+  - Elise
+  - Thresh
+  - Zed
+  - Evelynn
+  - Aatrox
+  - Riven
+  - Kayn
+- !!python/tuple
+  - Elise
+  - Thresh
+  - Aatrox
+  - Riven
+  - Shen
+  - Yone
+  - Zilean
+- !!python/tuple
+  - Elise
+  - Zed
+  - Evelynn
+  - Cassiopeia
+  - Riven
+  - Kayn
+  - Zilean
+- !!python/tuple
+  - Fiora
+  - Lissandra
+  - Aphelios
+  - Jax
+  - Sylas
+  - Morgana
+  - Warick
+- !!python/tuple
+  - Fiora
+  - Lissandra
+  - Aphelios
+  - Sylas
+  - Morgana
+  - Warick
+  - Lee Sin
+- !!python/tuple
+  - Fiora
+  - Maokai
+  - Nami
+  - Yasuo
+  - Lulu
+  - Veigar
+  - Sett
+- !!python/tuple
+  - Fiora
+  - Maokai
+  - Jax
+  - Ashe
+  - Morgana
+  - Warick
+  - Ezreal
+- !!python/tuple
+  - Fiora
+  - Maokai
+  - Ashe
+  - Morgana
+  - Warick
+  - Ezreal
+  - Lee Sin
+- !!python/tuple
+  - Fiora
+  - Nami
+  - Twisted Fate
+  - Vayne
+  - Kalista
+  - Jhin
+  - Lillia
+- !!python/tuple
+  - Fiora
+  - Nami
+  - Twisted Fate
+  - Teemo
+  - Kalista
+  - Ahri
+  - Jhin
+- !!python/tuple
+  - Fiora
+  - Nami
+  - Twisted Fate
+  - Thresh
+  - Kalista
+  - Aatrox
+  - Lillia
+- !!python/tuple
+  - Fiora
+  - Nami
+  - Twisted Fate
+  - Kalista
+  - Yuumi
+  - Ahri
+  - Zilean
+- !!python/tuple
+  - Fiora
+  - Nami
+  - Twisted Fate
+  - Kalista
+  - Cassiopeia
+  - Lillia
+  - Zilean
+- !!python/tuple
+  - Fiora
+  - Nami
+  - Vayne
+  - Yasuo
+  - Teemo
+  - Ahri
+  - Lillia
+- !!python/tuple
+  - Fiora
+  - Nami
+  - Wukong
+  - Hecarim
+  - Jax
+  - Lulu
+  - Veigar
+- !!python/tuple
+  - Fiora
+  - Nami
+  - Wukong
+  - Hecarim
+  - Lulu
+  - Veigar
+  - Lee Sin
+- !!python/tuple
+  - Fiora
+  - Nami
+  - Yasuo
+  - Lulu
+  - Nunu
+  - Veigar
+  - Sett
+- !!python/tuple
+  - Fiora
+  - Nami
+  - Yasuo
+  - Yuumi
+  - Ahri
+  - Cassiopeia
+  - Lillia
+- !!python/tuple
+  - Fiora
+  - Nami
+  - Jax
+  - Lulu
+  - Lux
+  - Veigar
+  - Ezreal
+- !!python/tuple
+  - Fiora
+  - Nami
+  - Lulu
+  - Lux
+  - Veigar
+  - Ezreal
+  - Lee Sin
+- !!python/tuple
+  - Fiora
+  - Wukong
+  - Yasuo
+  - Thresh
+  - Irelia
+  - Cassiopeia
+  - Shen
+- !!python/tuple
+  - Fiora
+  - Wukong
+  - Irelia
+  - Kalista
+  - Aatrox
+  - Shen
+  - Zilean
+- !!python/tuple
+  - Fiora
+  - Yasuo
+  - Janna
+  - Jax
+  - Shen
+  - Lee Sin
+  - Yone
+- !!python/tuple
+  - Fiora
+  - Yasuo
+  - Janna
+  - Irelia
+  - Lux
+  - Morgana
+  - Shen
+- !!python/tuple
+  - Fiora
+  - Janna
+  - Jarvan IV
+  - Xin Zhao
+  - Shen
+  - Azir
+  - Yone
+- !!python/tuple
+  - Fiora
+  - Janna
+  - Jax
+  - Kindred
+  - Yuumi
+  - Warick
+  - Sett
+- !!python/tuple
+  - Fiora
+  - Janna
+  - Zed
+  - Evelynn
+  - Kalista
+  - Kayn
+  - Zilean
+- !!python/tuple
+  - Fiora
+  - Janna
+  - Kindred
+  - Yuumi
+  - Warick
+  - Lee Sin
+  - Sett
+- !!python/tuple
+  - Fiora
+  - Jax
+  - Nunu
+  - Ashe
+  - Morgana
+  - Warick
+  - Ezreal
+- !!python/tuple
+  - Fiora
+  - Pyke
+  - Zed
+  - Evelynn
+  - Kalista
+  - Talon
+  - Kayn
+- !!python/tuple
+  - Fiora
+  - Pyke
+  - Kalista
+  - Shen
+  - Talon
+  - Yone
+  - Zilean
+- !!python/tuple
+  - Fiora
+  - Nunu
+  - Ashe
+  - Morgana
+  - Warick
+  - Ezreal
+  - Lee Sin
+- !!python/tuple
+  - Garen
+  - Nidalee
+  - Wukong
+  - Teemo
   - Vi
-  - Xayah
-- - Ashe
-  - Blitzcrank
-  - Fiora
+  - Kindred
+  - Warick
+- !!python/tuple
+  - Garen
+  - Wukong
+  - Janna
+  - Jarvan IV
+  - Irelia
   - Shen
-  - Vayne
-  - Vi
-  - Xayah
-- - Ashe
-  - Caitlyn
-  - Ezreal
-  - Jinx
-  - Master Yi
-  - Xayah
-  - Yasuo
-- - Ashe
-  - Caitlyn
-  - Janna
-  - Lulu
-  - Poppy
-  - Soraka
-  - Wukong
-- - Ashe
-  - Caitlyn
-  - Janna
-  - Lulu
-  - Soraka
-  - Syndra
-  - Twisted Fate
-- - Ashe
-  - Caitlyn
-  - Janna
-  - Lulu
-  - Soraka
-  - Twisted Fate
-  - Zoe
-- - Ashe
-  - Caitlyn
-  - Janna
-  - Neeko
-  - Poppy
-  - Rakan
-  - Wukong
-- - Ashe
-  - Caitlyn
-  - Janna
-  - Neeko
-  - Poppy
-  - Wukong
-  - Xin Zhao
-- - Ashe
-  - Caitlyn
-  - Janna
-  - Neeko
-  - Rakan
-  - Syndra
-  - Twisted Fate
-- - Ashe
-  - Caitlyn
-  - Janna
-  - Neeko
-  - Rakan
-  - Twisted Fate
-  - Zoe
-- - Ashe
-  - Caitlyn
-  - Janna
-  - Neeko
-  - Syndra
-  - Twisted Fate
-  - Xin Zhao
-- - Ashe
-  - Caitlyn
-  - Janna
-  - Neeko
-  - Twisted Fate
-  - Xin Zhao
-  - Zoe
-- - Ashe
-  - Ezreal
-  - Fiora
-  - Lucian
-  - Riven
-  - Vayne
-  - Xayah
-- - Ashe
-  - Ezreal
-  - Fiora
-  - Lucian
-  - Shen
-  - Vayne
-  - Xayah
-- - Ashe
-  - Fiora
-  - Leona
-  - Riven
-  - Vayne
-  - Wukong
-  - Xayah
-- - Ashe
-  - Fiora
-  - Leona
-  - Shen
-  - Vayne
-  - Wukong
-  - Xayah
-- - Ashe
-  - Janna
-  - Jarvin IV
-  - Jhin
-  - Lulu
-  - Neeko
-  - Soraka
-- - Ashe
-  - Janna
-  - Jarvin IV
-  - Jhin
-  - Rakan
-  - Syndra
-  - Zoe
-- - Ashe
-  - Janna
-  - Jarvin IV
-  - Jhin
-  - Syndra
-  - Xin Zhao
-  - Zoe
-- - Ashe
-  - Janna
-  - Jhin
-  - Karma
-  - Lulu
-  - Syndra
-  - Zoe
-- - Ashe
-  - Janna
-  - Jhin
-  - Karma
-  - Neeko
-  - Rakan
-  - Soraka
-- - Ashe
-  - Janna
-  - Jhin
-  - Karma
-  - Neeko
-  - Soraka
-  - Xin Zhao
-- - Ashe
-  - Janna
-  - Jhin
-  - Lulu
-  - Mordekaiser
-  - Poppy
-  - Soraka
-- - Ashe
-  - Janna
-  - Jhin
-  - Lulu
-  - Soraka
-  - Syndra
-  - Xerath
-- - Ashe
-  - Janna
-  - Jhin
-  - Lulu
-  - Soraka
-  - Xerath
-  - Zoe
-- - Ashe
-  - Janna
-  - Jhin
-  - Mordekaiser
-  - Neeko
-  - Poppy
-  - Rakan
-- - Ashe
-  - Janna
-  - Jhin
-  - Mordekaiser
-  - Neeko
-  - Poppy
-  - Xin Zhao
-- - Ashe
-  - Janna
-  - Jhin
-  - Neeko
-  - Rakan
-  - Syndra
-  - Xerath
-- - Ashe
-  - Janna
-  - Jhin
-  - Neeko
-  - Rakan
-  - Xerath
-  - Zoe
-- - Ashe
-  - Janna
-  - Jhin
-  - Neeko
-  - Syndra
-  - Xerath
-  - Xin Zhao
-- - Ashe
-  - Janna
-  - Jhin
-  - Neeko
-  - Xerath
-  - Xin Zhao
-  - Zoe
-- - Ashe
-  - Jhin
-  - Master Yi
-  - Shaco
-  - Xayah
-  - Yasuo
-  - Zed
-- - Aurelion Sol
-  - Blitzcrank
-  - Caitlyn
-  - Jhin
-  - Malphite
-  - Shaco
-  - Zed
-- - Aurelion Sol
-  - Blitzcrank
-  - Darius
-  - Gangplank
-  - Malphite
+  - Azir
+- !!python/tuple
+  - Garen
+  - Jarvan IV
   - Thresh
-  - Ziggs
-- - Aurelion Sol
-  - Blitzcrank
-  - Darius
-  - Graves
-  - Jinx
-  - Malphite
-  - Thresh
-- - Aurelion Sol
-  - Blitzcrank
-  - Ezreal
-  - Gangplank
-  - Graves
-  - Malphite
-  - Ziggs
-- - Aurelion Sol
-  - Blitzcrank
-  - Ezreal
-  - Illaoi
-  - Jinx
-  - Nocturne
-  - Zed
-- - Aurelion Sol
-  - Blitzcrank
-  - Ezreal
-  - Jinx
-  - Malphite
-  - Rakan
-  - Xin Zhao
-- - Aurelion Sol
-  - Blitzcrank
-  - Ezreal
-  - Kog Maw
-  - Malphite
-  - Nocturne
-  - Zed
-- - Aurelion Sol
-  - Blitzcrank
-  - Gangplank
-  - Jayce
-  - Malphite
-  - Wukong
-  - Ziggs
-- - Aurelion Sol
-  - Blitzcrank
-  - Graves
-  - Jayce
-  - Jinx
-  - Malphite
-  - Wukong
-- - Aurelion Sol
-  - Blitzcrank
-  - Jinx
-  - Kog Maw
-  - Malphite
-  - Twisted Fate
-  - Viktor
-- - Aurelion Sol
-  - Blitzcrank
-  - Malphite
-  - Mordekaiser
-  - Shaco
-  - Wukong
-  - Zed
-- - Aurelion Sol
-  - Blitzcrank
-  - Malphite
-  - Nocturne
-  - Twisted Fate
-  - Viktor
-  - Zed
-- - Aurelion Sol
-  - Blitzcrank
-  - Malphite
-  - Shaco
-  - Twisted Fate
-  - Xerath
-  - Zed
-- - Aurelion Sol
-  - Caitlyn
-  - Ezreal
-  - Jhin
-  - Jinx
-  - Shaco
-  - Zed
-- - Aurelion Sol
   - Cassiopeia
-  - Illaoi
-  - Karma
-  - Malphite
-  - Shaco
+  - Shen
+  - Azir
+  - Yone
+- !!python/tuple
+  - Lissandra
+  - Aphelios
+  - Jax
+  - Sylas
+  - Lux
+  - Warick
+  - Lee Sin
+- !!python/tuple
+  - Lissandra
+  - Aphelios
+  - Sylas
   - Zed
-- - Aurelion Sol
+  - Lux
+  - Warick
+  - Kayn
+- !!python/tuple
+  - Lissandra
+  - Aphelios
+  - Sylas
+  - Irelia
+  - Morgana
+  - Warick
+  - Yone
+- !!python/tuple
+  - Maokai
+  - Nami
+  - Janna
+  - Lulu
+  - Nunu
+  - Yuumi
+  - Ahri
+- !!python/tuple
+  - Maokai
+  - Nami
+  - Janna
+  - Lulu
+  - Nunu
   - Cassiopeia
-  - Jinx
-  - Karma
-  - Kog Maw
-  - Shaco
-  - Zed
-- - Aurelion Sol
-  - Darius
-  - Ezreal
-  - Gangplank
-  - Jinx
-  - Thresh
-  - Ziggs
-- - Aurelion Sol
-  - Ezreal
-  - Gangplank
-  - Jayce
-  - Jinx
-  - Wukong
-  - Ziggs
-- - Aurelion Sol
-  - Ezreal
-  - Illaoi
-  - Jinx
-  - Malphite
-  - Twisted Fate
-  - Viktor
-- - Aurelion Sol
-  - Ezreal
-  - Jinx
-  - Mordekaiser
-  - Shaco
-  - Wukong
-  - Zed
-- - Aurelion Sol
-  - Ezreal
-  - Jinx
-  - Nocturne
-  - Twisted Fate
-  - Viktor
-  - Zed
-- - Aurelion Sol
-  - Ezreal
-  - Jinx
-  - Shaco
-  - Twisted Fate
-  - Xerath
-  - Zed
-- - Aurelion Sol
-  - Gangplank
-  - Graves
-  - Illaoi
-  - Kog Maw
-  - Malphite
-  - Ziggs
-- - Aurelion Sol
-  - Gangplank
-  - Graves
-  - Jinx
-  - Rakan
-  - Xin Zhao
-  - Ziggs
-- - Aurelion Sol
-  - Gangplank
-  - Graves
-  - Kog Maw
-  - Nocturne
-  - Zed
-  - Ziggs
-- - Aurelion Sol
-  - Gangplank
-  - Jayce
-  - Mordekaiser
-  - Shaco
-  - Zed
-  - Ziggs
-- - Aurelion Sol
-  - Graves
-  - Jayce
-  - Jinx
-  - Mordekaiser
-  - Shaco
-  - Zed
-- - Aurelion Sol
-  - Illaoi
-  - Jarvin IV
-  - Malphite
-  - Shaco
-  - Urgot
-  - Zed
-- - Aurelion Sol
-  - Illaoi
-  - Jinx
-  - Kog Maw
-  - Malphite
-  - Rakan
-  - Xin Zhao
-- - Aurelion Sol
-  - Illaoi
-  - Malphite
-  - Nocturne
-  - Rakan
-  - Xin Zhao
-  - Zed
-- - Aurelion Sol
-  - Illaoi
-  - Malphite
-  - Shaco
-  - Viktor
-  - Xerath
-  - Zed
-- - Aurelion Sol
-  - Jarvin IV
-  - Jinx
-  - Kog Maw
-  - Shaco
-  - Urgot
-  - Zed
-- - Aurelion Sol
-  - Jinx
-  - Kog Maw
-  - Nocturne
-  - Rakan
-  - Xin Zhao
-  - Zed
-- - Aurelion Sol
-  - Jinx
-  - Kog Maw
-  - Shaco
-  - Viktor
-  - Xerath
-  - Zed
-- - Blitzcrank
-  - Caitlyn
-  - Fiora
-  - Riven
-  - Shen
-  - Vayne
-  - Vi
-- - Blitzcrank
+  - Lillia
+- !!python/tuple
+  - Maokai
+  - Nami
+  - Janna
+  - Nunu
+  - Veigar
+  - Yuumi
+  - Ahri
+- !!python/tuple
+  - Maokai
+  - Nami
+  - Janna
+  - Nunu
+  - Veigar
   - Cassiopeia
-  - Illaoi
-  - Janna
-  - Poppy
-  - Soraka
+  - Lillia
+- !!python/tuple
+  - Maokai
+  - Nami
+  - Lulu
+  - Akali
+  - Veigar
+  - Talon
+  - Sett
+- !!python/tuple
+  - Maokai
+  - Vayne
+  - Lulu
+  - Teemo
+  - Nunu
+  - Ahri
+  - Lillia
+- !!python/tuple
+  - Maokai
+  - Vayne
+  - Teemo
+  - Nunu
+  - Veigar
+  - Ahri
+  - Lillia
+- !!python/tuple
+  - Maokai
   - Wukong
-- - Blitzcrank
+  - Hecarim
+  - Janna
+  - Irelia
+  - Nunu
+  - Shen
+- !!python/tuple
+  - Maokai
+  - Wukong
+  - Hecarim
+  - Jax
+  - Ashe
+  - Warick
+  - Lee Sin
+- !!python/tuple
+  - Maokai
+  - Wukong
+  - Hecarim
+  - Zed
+  - Ashe
+  - Warick
+  - Kayn
+- !!python/tuple
+  - Maokai
+  - Yasuo
+  - Jax
+  - Nunu
+  - Ashe
+  - Warick
+  - Sett
+- !!python/tuple
+  - Maokai
+  - Yasuo
+  - Nunu
+  - Ashe
+  - Warick
+  - Lee Sin
+  - Sett
+- !!python/tuple
+  - Maokai
+  - Hecarim
+  - Thresh
+  - Nunu
   - Cassiopeia
-  - Illaoi
+  - Shen
+  - Yone
+- !!python/tuple
+  - Maokai
   - Janna
-  - Soraka
-  - Syndra
-  - Twisted Fate
-- - Blitzcrank
+  - Irelia
+  - Lux
+  - Nunu
+  - Shen
+  - Ezreal
+- !!python/tuple
+  - Maokai
+  - Janna
+  - Nunu
+  - Morgana
+  - Shen
+  - Ezreal
+  - Yone
+- !!python/tuple
+  - Maokai
+  - Jax
+  - Lux
+  - Ashe
+  - Warick
+  - Ezreal
+  - Lee Sin
+- !!python/tuple
+  - Maokai
+  - Lulu
+  - Kennen
+  - Veigar
+  - Riven
+  - Lillia
+  - Sett
+- !!python/tuple
+  - Maokai
+  - Lulu
+  - Nunu
+  - Yuumi
+  - Ahri
   - Cassiopeia
-  - Illaoi
-  - Janna
-  - Soraka
-  - Twisted Fate
-  - Zoe
-- - Blitzcrank
-  - Ezreal
-  - Fiora
-  - Lucian
-  - Riven
-  - Shen
-  - Vi
-- - Blitzcrank
-  - Ezreal
-  - Illaoi
-  - Janna
-  - Kog Maw
-  - Syndra
-  - Zoe
-- - Blitzcrank
-  - Ezreal
-  - Jinx
-  - Malphite
-  - Master Yi
-  - Riven
-  - Shen
-- - Blitzcrank
-  - Ezreal
-  - Jinx
-  - Malphite
-  - Riven
-  - Shen
-  - Yasuo
-- - Blitzcrank
-  - Fiora
-  - Leona
-  - Riven
-  - Shen
-  - Vi
-  - Wukong
-- - Blitzcrank
-  - Illaoi
-  - Janna
-  - Neeko
-  - Poppy
-  - Urgot
-  - Wukong
-- - Blitzcrank
-  - Illaoi
-  - Janna
-  - Neeko
-  - Syndra
-  - Twisted Fate
-  - Urgot
-- - Blitzcrank
-  - Illaoi
-  - Janna
-  - Neeko
-  - Twisted Fate
-  - Urgot
-  - Zoe
-- - Blitzcrank
-  - Illaoi
-  - Janna
-  - Poppy
-  - Syndra
-  - Viktor
-  - Wukong
-- - Blitzcrank
-  - Illaoi
-  - Janna
-  - Poppy
-  - Viktor
-  - Wukong
-  - Zoe
-- - Blitzcrank
-  - Illaoi
-  - Janna
-  - Syndra
-  - Twisted Fate
-  - Viktor
-  - Zoe
-- - Blitzcrank
-  - Illaoi
-  - Jinx
-  - Kog Maw
-  - Master Yi
-  - Riven
-  - Yasuo
-- - Blitzcrank
-  - Illaoi
-  - Jinx
-  - Kog Maw
-  - Master Yi
-  - Shen
-  - Yasuo
-- - Blitzcrank
-  - Illaoi
-  - Master Yi
-  - Nocturne
-  - Riven
-  - Yasuo
+  - Lillia
+- !!python/tuple
+  - Maokai
   - Zed
-- - Blitzcrank
-  - Illaoi
-  - Master Yi
-  - Nocturne
-  - Shen
-  - Yasuo
-  - Zed
-- - Blitzcrank
-  - Malphite
-  - Master Yi
-  - Rakan
-  - Riven
-  - Xin Zhao
-  - Yasuo
-- - Blitzcrank
-  - Malphite
-  - Master Yi
-  - Rakan
-  - Shen
-  - Xin Zhao
-  - Yasuo
-- - Caitlyn
+  - Lux
+  - Ashe
+  - Warick
   - Ezreal
-  - Fiora
-  - Lucian
-  - Riven
+  - Kayn
+- !!python/tuple
+  - Maokai
+  - Irelia
+  - Ashe
+  - Morgana
+  - Warick
+  - Ezreal
+  - Yone
+- !!python/tuple
+  - Maokai
+  - Kindred
+  - Nunu
+  - Yuumi
+  - Ashe
   - Shen
+  - Yone
+- !!python/tuple
+  - Maokai
+  - Nunu
+  - Veigar
+  - Yuumi
+  - Ahri
+  - Cassiopeia
+  - Lillia
+- !!python/tuple
+  - Nami
+  - Twisted Fate
   - Vayne
-- - Caitlyn
-  - Fiora
-  - Leona
-  - Riven
-  - Shen
+  - Janna
+  - Jhin
+  - Lillia
+  - Zilean
+- !!python/tuple
+  - Nami
+  - Twisted Fate
   - Vayne
+  - Pyke
+  - Jhin
+  - Talon
+  - Lillia
+- !!python/tuple
+  - Nami
+  - Twisted Fate
+  - Janna
+  - Teemo
+  - Ahri
+  - Jhin
+  - Zilean
+- !!python/tuple
+  - Nami
+  - Twisted Fate
+  - Janna
+  - Thresh
+  - Aatrox
+  - Lillia
+  - Zilean
+- !!python/tuple
+  - Nami
+  - Twisted Fate
+  - Pyke
+  - Teemo
+  - Ahri
+  - Jhin
+  - Talon
+- !!python/tuple
+  - Nami
+  - Twisted Fate
+  - Pyke
+  - Thresh
+  - Aatrox
+  - Talon
+  - Lillia
+- !!python/tuple
+  - Nami
+  - Twisted Fate
+  - Pyke
+  - Yuumi
+  - Ahri
+  - Talon
+  - Zilean
+- !!python/tuple
+  - Nami
+  - Twisted Fate
+  - Pyke
+  - Cassiopeia
+  - Talon
+  - Lillia
+  - Zilean
+- !!python/tuple
+  - Nami
+  - Vayne
+  - Teemo
+  - Akali
+  - Ahri
+  - Talon
+  - Lillia
+- !!python/tuple
+  - Nami
   - Wukong
-- - Caitlyn
-  - Janna
-  - Jarvin IV
-  - Jhin
-  - Neeko
-  - Poppy
+  - Hecarim
+  - Lulu
+  - Irelia
+  - Veigar
+  - Yone
+- !!python/tuple
+  - Nami
   - Wukong
-- - Caitlyn
+  - Hecarim
+  - Lulu
+  - Lux
+  - Veigar
+  - Morgana
+- !!python/tuple
+  - Nami
+  - Hecarim
   - Janna
-  - Jarvin IV
-  - Jhin
-  - Neeko
-  - Syndra
-  - Twisted Fate
-- - Caitlyn
+  - Lulu
+  - Thresh
+  - Veigar
+  - Cassiopeia
+- !!python/tuple
+  - Nami
+  - Hecarim
+  - Lulu
+  - Thresh
+  - Morgana
+  - Ezreal
+  - Lillia
+- !!python/tuple
+  - Nami
+  - Hecarim
+  - Thresh
+  - Veigar
+  - Morgana
+  - Ezreal
+  - Lillia
+- !!python/tuple
+  - Nami
   - Janna
-  - Jarvin IV
-  - Jhin
-  - Neeko
-  - Twisted Fate
-  - Zoe
-- - Caitlyn
+  - Lulu
+  - Kindred
+  - Veigar
+  - Yuumi
+  - Ashe
+- !!python/tuple
+  - Nami
   - Janna
-  - Jhin
-  - Karma
-  - Poppy
-  - Soraka
-  - Wukong
-- - Caitlyn
-  - Janna
-  - Jhin
-  - Karma
-  - Soraka
-  - Syndra
-  - Twisted Fate
-- - Caitlyn
-  - Janna
-  - Jhin
-  - Karma
-  - Soraka
-  - Twisted Fate
-  - Zoe
-- - Caitlyn
-  - Janna
-  - Jhin
-  - Mordekaiser
-  - Poppy
-  - Syndra
-  - Twisted Fate
-- - Caitlyn
-  - Janna
-  - Jhin
-  - Mordekaiser
-  - Poppy
-  - Twisted Fate
-  - Zoe
-- - Caitlyn
-  - Janna
-  - Jhin
-  - Mordekaiser
-  - Syndra
-  - Wukong
-  - Zoe
-- - Caitlyn
-  - Janna
-  - Jhin
-  - Poppy
-  - Syndra
-  - Wukong
-  - Xerath
-- - Caitlyn
-  - Janna
-  - Jhin
-  - Poppy
-  - Wukong
-  - Xerath
-  - Zoe
-- - Caitlyn
-  - Janna
-  - Jhin
-  - Syndra
-  - Twisted Fate
-  - Xerath
-  - Zoe
-- - Caitlyn
-  - Jhin
-  - Master Yi
+  - Kennen
+  - Yuumi
+  - Ahri
   - Riven
-  - Shaco
-  - Yasuo
+  - Lillia
+- !!python/tuple
+  - Nami
+  - Jax
+  - Lulu
+  - Veigar
+  - Morgana
+  - Ezreal
+  - Lee Sin
+- !!python/tuple
+  - Nami
+  - Lulu
   - Zed
-- - Caitlyn
-  - Jhin
-  - Master Yi
-  - Shaco
-  - Shen
-  - Yasuo
-  - Zed
-- - Cassiopeia
+  - Veigar
+  - Morgana
   - Ezreal
-  - Janna
-  - Kog Maw
-  - Poppy
-  - Soraka
-  - Wukong
-- - Cassiopeia
+  - Kayn
+- !!python/tuple
+  - Nami
+  - Lulu
+  - Akali
+  - Nunu
+  - Veigar
+  - Talon
+  - Sett
+- !!python/tuple
+  - Nami
+  - Lulu
+  - Irelia
+  - Lux
+  - Veigar
   - Ezreal
-  - Janna
-  - Kog Maw
-  - Soraka
-  - Syndra
-  - Twisted Fate
-- - Cassiopeia
+  - Yone
+- !!python/tuple
+  - Nami
+  - Lulu
+  - Kindred
+  - Ahri
+  - Ashe
+  - Morgana
   - Ezreal
-  - Janna
-  - Kog Maw
-  - Soraka
-  - Twisted Fate
-  - Zoe
-- - Cassiopeia
-  - Graves
-  - Janna
-  - Jayce
-  - Kog Maw
-  - Poppy
-  - Soraka
-- - Cassiopeia
-  - Illaoi
-  - Lulu
-  - Malphite
-  - Master Yi
-  - Xayah
-  - Yasuo
-- - Cassiopeia
-  - Janna
-  - Jarvin IV
-  - Karma
-  - Neeko
-  - Syndra
-  - Viktor
-- - Cassiopeia
-  - Janna
-  - Jarvin IV
-  - Karma
-  - Neeko
-  - Viktor
-  - Zoe
-- - Cassiopeia
-  - Janna
-  - Jarvin IV
-  - Karma
-  - Syndra
-  - Urgot
-  - Zoe
-- - Cassiopeia
-  - Janna
-  - Jarvin IV
-  - Mordekaiser
-  - Poppy
-  - Soraka
-  - Urgot
-- - Cassiopeia
-  - Janna
-  - Jarvin IV
-  - Neeko
-  - Nocturne
-  - Shaco
-  - Soraka
-- - Cassiopeia
-  - Janna
-  - Jarvin IV
-  - Neeko
-  - Soraka
-  - Viktor
-  - Xerath
-- - Cassiopeia
-  - Janna
-  - Jarvin IV
-  - Soraka
-  - Syndra
-  - Urgot
-  - Xerath
-- - Cassiopeia
-  - Janna
-  - Jarvin IV
-  - Soraka
-  - Urgot
-  - Xerath
-  - Zoe
-- - Cassiopeia
-  - Janna
-  - Karma
-  - Mordekaiser
-  - Neeko
-  - Poppy
-  - Urgot
-- - Cassiopeia
-  - Janna
-  - Karma
-  - Mordekaiser
-  - Poppy
-  - Syndra
-  - Viktor
-- - Cassiopeia
-  - Janna
-  - Karma
-  - Mordekaiser
-  - Poppy
-  - Viktor
-  - Zoe
-- - Cassiopeia
-  - Janna
-  - Karma
-  - Neeko
-  - Syndra
-  - Urgot
-  - Xerath
-- - Cassiopeia
-  - Janna
-  - Karma
-  - Neeko
-  - Urgot
-  - Xerath
-  - Zoe
-- - Cassiopeia
-  - Janna
-  - Karma
-  - Nocturne
-  - Shaco
-  - Syndra
-  - Zoe
-- - Cassiopeia
-  - Janna
-  - Karma
-  - Syndra
-  - Viktor
-  - Xerath
-  - Zoe
-- - Cassiopeia
-  - Janna
-  - Lulu
-  - Neeko
-  - Rakan
-  - Syndra
-  - Viktor
-- - Cassiopeia
-  - Janna
-  - Lulu
-  - Neeko
-  - Rakan
-  - Viktor
-  - Zoe
-- - Cassiopeia
-  - Janna
-  - Lulu
-  - Neeko
-  - Syndra
-  - Viktor
-  - Xin Zhao
-- - Cassiopeia
-  - Janna
-  - Lulu
-  - Neeko
-  - Viktor
-  - Xin Zhao
-  - Zoe
-- - Cassiopeia
-  - Janna
-  - Lulu
-  - Rakan
-  - Syndra
-  - Urgot
-  - Zoe
-- - Cassiopeia
-  - Janna
-  - Lulu
-  - Syndra
-  - Urgot
-  - Xin Zhao
-  - Zoe
-- - Cassiopeia
-  - Janna
-  - Mordekaiser
-  - Nocturne
-  - Poppy
-  - Shaco
-  - Soraka
-- - Cassiopeia
-  - Janna
-  - Mordekaiser
-  - Poppy
-  - Soraka
-  - Viktor
-  - Xerath
-- - Cassiopeia
-  - Janna
-  - Neeko
-  - Rakan
-  - Soraka
-  - Urgot
-  - Xin Zhao
-- - Cassiopeia
-  - Janna
-  - Nocturne
-  - Shaco
-  - Soraka
-  - Syndra
-  - Xerath
-- - Cassiopeia
-  - Janna
-  - Nocturne
-  - Shaco
-  - Soraka
-  - Xerath
-  - Zoe
-- - Cassiopeia
-  - Janna
-  - Poppy
-  - Soraka
-  - Twisted Fate
-  - Viktor
-  - Wukong
-- - Cassiopeia
-  - Janna
-  - Rakan
-  - Soraka
-  - Syndra
-  - Viktor
-  - Xin Zhao
-- - Cassiopeia
-  - Janna
-  - Rakan
-  - Soraka
-  - Viktor
-  - Xin Zhao
-  - Zoe
-- - Cassiopeia
-  - Jinx
-  - Kog Maw
-  - Lulu
-  - Master Yi
-  - Xayah
-  - Yasuo
-- - Cassiopeia
-  - Lulu
-  - Master Yi
-  - Nocturne
-  - Xayah
-  - Yasuo
-  - Zed
-- - Darius
+- !!python/tuple
+  - Nami
+  - Akali
+  - Yuumi
+  - Ahri
+  - Cassiopeia
+  - Talon
+  - Lillia
+- !!python/tuple
+  - Nami
+  - Kindred
+  - Veigar
+  - Ahri
+  - Ashe
+  - Morgana
   - Ezreal
-  - Graves
-  - Janna
-  - Syndra
-  - Thresh
-  - Zoe
-- - Darius
-  - Gangplank
-  - Master Yi
-  - Riven
-  - Thresh
-  - Yasuo
-  - Ziggs
-- - Darius
-  - Gangplank
-  - Master Yi
+- !!python/tuple
+  - Nidalee
+  - Vayne
+  - Jarvan IV
+  - Cassiopeia
   - Shen
-  - Thresh
-  - Yasuo
-  - Ziggs
-- - Darius
-  - Graves
-  - Jinx
-  - Master Yi
-  - Riven
-  - Thresh
-  - Yasuo
-- - Darius
-  - Graves
-  - Jinx
-  - Master Yi
+  - Azir
+  - Yone
+- !!python/tuple
+  - Nidalee
+  - Jarvan IV
+  - Teemo
+  - Yuumi
   - Shen
-  - Thresh
-  - Yasuo
-- - Darius
-  - Janna
-  - Jayce
-  - Poppy
-  - Syndra
-  - Thresh
-  - Twisted Fate
-- - Darius
-  - Janna
-  - Jayce
-  - Poppy
-  - Thresh
-  - Twisted Fate
-  - Zoe
-- - Darius
-  - Janna
-  - Jayce
-  - Syndra
-  - Thresh
-  - Wukong
-  - Zoe
-- - Ekko
-  - Fiora
-  - Illaoi
-  - Nocturne
-  - Riven
-  - Shen
+  - Azir
+  - Yone
+- !!python/tuple
+  - Nidalee
+  - Jax
+  - Teemo
   - Vi
-- - Ekko
-  - Fiora
-  - Jhin
-  - Riven
-  - Shaco
-  - Shen
-  - Vayne
-- - Ekko
-  - Fiora
-  - Kog Maw
-  - Lucian
-  - Nocturne
-  - Riven
-  - Shen
-- - Ekko
-  - Fiora
-  - Leona
-  - Mordekaiser
-  - Riven
-  - Shaco
-  - Shen
-- - Ezreal
-  - Fiora
-  - Leona
-  - Lucian
-  - Riven
-  - Shen
-  - Wukong
-- - Ezreal
-  - Gangplank
-  - Graves
-  - Master Yi
-  - Riven
-  - Yasuo
-  - Ziggs
-- - Ezreal
-  - Gangplank
-  - Graves
-  - Master Yi
-  - Shen
-  - Yasuo
-  - Ziggs
-- - Ezreal
-  - Graves
-  - Janna
-  - Jayce
-  - Poppy
-  - Syndra
-  - Twisted Fate
-- - Ezreal
-  - Graves
-  - Janna
-  - Jayce
-  - Poppy
-  - Twisted Fate
-  - Zoe
-- - Ezreal
-  - Graves
-  - Janna
-  - Jayce
-  - Syndra
-  - Wukong
-  - Zoe
-- - Ezreal
-  - Illaoi
-  - Kog Maw
-  - Malphite
-  - Master Yi
-  - Riven
-  - Yasuo
-- - Ezreal
-  - Illaoi
-  - Kog Maw
-  - Malphite
-  - Master Yi
-  - Shen
-  - Yasuo
-- - Ezreal
-  - Janna
-  - Kog Maw
-  - Neeko
-  - Poppy
-  - Urgot
-  - Wukong
-- - Ezreal
-  - Janna
-  - Kog Maw
-  - Neeko
-  - Syndra
-  - Twisted Fate
-  - Urgot
-- - Ezreal
-  - Janna
-  - Kog Maw
-  - Neeko
-  - Twisted Fate
-  - Urgot
-  - Zoe
-- - Ezreal
-  - Janna
-  - Kog Maw
-  - Poppy
-  - Syndra
-  - Viktor
-  - Wukong
-- - Ezreal
-  - Janna
-  - Kog Maw
-  - Poppy
-  - Viktor
-  - Wukong
-  - Zoe
-- - Ezreal
-  - Janna
-  - Kog Maw
-  - Syndra
-  - Twisted Fate
-  - Viktor
-  - Zoe
-- - Ezreal
-  - Jinx
-  - Master Yi
-  - Rakan
-  - Riven
+  - Kindred
   - Xin Zhao
-  - Yasuo
-- - Ezreal
-  - Jinx
-  - Master Yi
-  - Rakan
-  - Shen
-  - Xin Zhao
-  - Yasuo
-- - Ezreal
-  - Kog Maw
-  - Master Yi
-  - Nocturne
-  - Riven
-  - Yasuo
-  - Zed
-- - Ezreal
-  - Kog Maw
-  - Master Yi
-  - Nocturne
-  - Shen
-  - Yasuo
-  - Zed
-- - Fiora
-  - Graves
-  - Jayce
-  - Leona
-  - Lucian
-  - Riven
-  - Shen
-- - Fiora
-  - Illaoi
-  - Kog Maw
-  - Lucian
-  - Riven
-  - Shen
+  - Warick
+- !!python/tuple
+  - Nidalee
+  - Teemo
   - Vi
-- - Fiora
-  - Jhin
-  - Leona
-  - Mordekaiser
-  - Riven
-  - Shen
+  - Kindred
+  - Xin Zhao
+  - Warick
+  - Lee Sin
+- !!python/tuple
+  - Tahm Kench
+  - Wukong
+  - Teemo
+  - Jinx
+  - Kindred
+  - Sejuani
+  - Warick
+- !!python/tuple
+  - Tahm Kench
+  - Annie
+  - Hecarim
+  - Lulu
+  - Veigar
+  - Sejuani
+  - Sett
+- !!python/tuple
+  - Twisted Fate
   - Vayne
-- - Gangplank
-  - Graves
-  - Jinx
-  - Master Yi
-  - Riven
-  - Shen
-  - Ziggs
-- - Gangplank
-  - Graves
-  - Jinx
-  - Riven
-  - Shen
+  - Yuumi
+  - Ahri
+  - Jhin
+  - Lillia
+  - Zilean
+- !!python/tuple
+  - Twisted Fate
   - Yasuo
-  - Ziggs
-- - Gangplank
-  - Jayce
-  - Master Yi
-  - Riven
+  - Hecarim
+  - Lulu
+  - Kalista
+  - Veigar
+  - Aatrox
+- !!python/tuple
+  - Twisted Fate
+  - Hecarim
+  - Lulu
+  - Pyke
+  - Akali
+  - Veigar
+  - Aatrox
+- !!python/tuple
+  - Twisted Fate
+  - Hecarim
+  - Lulu
+  - Zed
+  - Evelynn
+  - Veigar
+  - Aatrox
+- !!python/tuple
+  - Twisted Fate
+  - Hecarim
+  - Lulu
+  - Evelynn
+  - Veigar
+  - Aatrox
+  - Kayn
+- !!python/tuple
+  - Twisted Fate
+  - Teemo
+  - Thresh
+  - Aatrox
+  - Ahri
+  - Jhin
+  - Lillia
+- !!python/tuple
+  - Twisted Fate
+  - Teemo
+  - Ahri
+  - Cassiopeia
+  - Jhin
+  - Lillia
+  - Zilean
+- !!python/tuple
+  - Twisted Fate
+  - Thresh
+  - Yuumi
+  - Aatrox
+  - Ahri
+  - Lillia
+  - Zilean
+- !!python/tuple
+  - Vayne
+  - Wukong
+  - Teemo
+  - Thresh
+  - Kindred
+  - Warick
+  - Sett
+- !!python/tuple
+  - Vayne
+  - Hecarim
+  - Lulu
+  - Teemo
+  - Thresh
+  - Veigar
+  - Ahri
+- !!python/tuple
+  - Vayne
+  - Lulu
+  - Teemo
+  - Kindred
+  - Veigar
+  - Ashe
+  - Lillia
+- !!python/tuple
+  - Vayne
+  - Thresh
+  - Zed
+  - Evelynn
+  - Aatrox
+  - Jhin
+  - Kayn
+- !!python/tuple
+  - Vayne
+  - Thresh
+  - Aatrox
+  - Jhin
+  - Shen
+  - Yone
+  - Zilean
+- !!python/tuple
+  - Vayne
+  - Zed
+  - Evelynn
+  - Cassiopeia
+  - Jhin
+  - Kayn
+  - Zilean
+- !!python/tuple
   - Wukong
   - Yasuo
-  - Ziggs
-- - Gangplank
-  - Jayce
-  - Master Yi
+  - Jax
+  - Thresh
+  - Cassiopeia
   - Shen
+  - Yone
+- !!python/tuple
   - Wukong
   - Yasuo
-  - Ziggs
-- - Graves
+  - Thresh
+  - Cassiopeia
+  - Shen
+  - Lee Sin
+  - Yone
+- !!python/tuple
+  - Wukong
+  - Hecarim
+  - Jax
+  - Nunu
+  - Ashe
+  - Warick
+  - Lee Sin
+- !!python/tuple
+  - Wukong
+  - Hecarim
+  - Zed
+  - Nunu
+  - Ashe
+  - Warick
+  - Kayn
+- !!python/tuple
+  - Wukong
+  - Jax
+  - Zed
+  - Evelynn
+  - Kalista
+  - Aatrox
+  - Kayn
+- !!python/tuple
+  - Wukong
+  - Jax
+  - Kalista
+  - Aatrox
+  - Shen
+  - Yone
+  - Zilean
+- !!python/tuple
+  - Wukong
+  - Lulu
+  - Thresh
+  - Lux
+  - Veigar
+  - Ezreal
+  - Lillia
+- !!python/tuple
+  - Wukong
+  - Pyke
+  - Irelia
+  - Aatrox
+  - Shen
+  - Talon
+  - Zilean
+- !!python/tuple
+  - Wukong
+  - Thresh
+  - Kindred
+  - Yuumi
+  - Cassiopeia
+  - Warick
+  - Sett
+- !!python/tuple
+  - Wukong
+  - Zed
+  - Evelynn
+  - Kalista
+  - Aatrox
+  - Kayn
+  - Lee Sin
+- !!python/tuple
+  - Wukong
+  - Kalista
+  - Aatrox
+  - Shen
+  - Lee Sin
+  - Yone
+  - Zilean
+- !!python/tuple
+  - Yasuo
   - Janna
-  - Jayce
-  - Kog Maw
-  - Neeko
-  - Poppy
-  - Urgot
-- - Graves
+  - Jax
+  - Lux
+  - Morgana
+  - Shen
+  - Yone
+- !!python/tuple
+  - Yasuo
   - Janna
-  - Jayce
-  - Kog Maw
-  - Poppy
-  - Syndra
-  - Viktor
-- - Graves
+  - Lux
+  - Morgana
+  - Shen
+  - Lee Sin
+  - Yone
+- !!python/tuple
+  - Yasuo
+  - Evelynn
+  - Kalista
+  - Shen
+  - Kayn
+  - Yone
+  - Zilean
+- !!python/tuple
+  - Annie
+  - Teemo
+  - Thresh
+  - Jinx
+  - Ahri
+  - Sejuani
+  - Lillia
+- !!python/tuple
+  - Hecarim
+  - Jax
+  - Lulu
+  - Thresh
+  - Veigar
+  - Lee Sin
+  - Lillia
+- !!python/tuple
+  - Hecarim
+  - Lulu
+  - Thresh
+  - Zed
+  - Veigar
+  - Kayn
+  - Lillia
+- !!python/tuple
+  - Hecarim
+  - Lulu
+  - Thresh
+  - Kindred
+  - Ahri
+  - Ashe
+  - Lillia
+- !!python/tuple
+  - Hecarim
+  - Lulu
+  - Thresh
+  - Veigar
+  - Yuumi
+  - Ahri
+  - Cassiopeia
+- !!python/tuple
+  - Hecarim
+  - Thresh
+  - Kindred
+  - Veigar
+  - Ahri
+  - Ashe
+  - Lillia
+- !!python/tuple
   - Janna
-  - Jayce
-  - Kog Maw
-  - Poppy
-  - Viktor
-  - Zoe
-- - Graves
-  - Jayce
-  - Jinx
-  - Master Yi
-  - Riven
-  - Wukong
-  - Yasuo
-- - Graves
-  - Jayce
-  - Jinx
-  - Master Yi
+  - Jarvan IV
+  - Jax
+  - Irelia
+  - Xin Zhao
   - Shen
-  - Wukong
-  - Yasuo
-- - Illaoi
-  - Jinx
-  - Kog Maw
-  - Malphite
-  - Master Yi
-  - Riven
+  - Azir
+- !!python/tuple
+  - Janna
+  - Jarvan IV
+  - Irelia
+  - Xin Zhao
   - Shen
-- - Illaoi
-  - Jinx
-  - Kog Maw
-  - Malphite
-  - Riven
+  - Azir
+  - Lee Sin
+- !!python/tuple
+  - Janna
+  - Lulu
+  - Veigar
+  - Yuumi
+  - Ahri
+  - Morgana
+  - Ezreal
+- !!python/tuple
+  - Janna
+  - Lulu
+  - Veigar
+  - Cassiopeia
+  - Morgana
+  - Ezreal
+  - Lillia
+- !!python/tuple
+  - Janna
+  - Pyke
+  - Zed
+  - Evelynn
+  - Talon
+  - Kayn
+  - Zilean
+- !!python/tuple
+  - Janna
+  - Irelia
+  - Kindred
+  - Yuumi
+  - Warick
+  - Sett
+  - Yone
+- !!python/tuple
+  - Janna
+  - Kindred
+  - Lux
+  - Yuumi
+  - Morgana
+  - Warick
+  - Sett
+- !!python/tuple
+  - Jax
+  - Lulu
+  - Kindred
+  - Veigar
+  - Ahri
+  - Ashe
+  - Lee Sin
+- !!python/tuple
+  - Jax
+  - Pyke
+  - Irelia
+  - Kalista
   - Shen
-  - Yasuo
-- - Illaoi
-  - Malphite
-  - Master Yi
-  - Nocturne
+  - Talon
+  - Zilean
+- !!python/tuple
+  - Jax
+  - Lux
+  - Nunu
+  - Ashe
+  - Warick
+  - Ezreal
+  - Lee Sin
+- !!python/tuple
+  - Lulu
+  - Zed
+  - Kindred
+  - Veigar
+  - Ahri
+  - Ashe
+  - Kayn
+- !!python/tuple
+  - Lulu
+  - Kennen
+  - Nunu
+  - Veigar
   - Riven
+  - Lillia
+  - Sett
+- !!python/tuple
+  - Lulu
+  - Kindred
+  - Veigar
+  - Yuumi
+  - Ashe
+  - Cassiopeia
+  - Lillia
+- !!python/tuple
+  - Pyke
+  - Irelia
+  - Kalista
   - Shen
+  - Talon
+  - Lee Sin
+  - Zilean
+- !!python/tuple
+  - Teemo
   - Zed
-- - Illaoi
-  - Malphite
-  - Master Yi
-  - Rakan
-  - Urgot
-  - Xayah
-  - Yasuo
-- - Illaoi
-  - Malphite
-  - Master Yi
-  - Riven
-  - Twisted Fate
-  - Viktor
-  - Yasuo
-- - Illaoi
-  - Malphite
-  - Master Yi
-  - Shen
-  - Twisted Fate
-  - Viktor
-  - Yasuo
-- - Illaoi
-  - Malphite
-  - Master Yi
-  - Urgot
-  - Xayah
-  - Xin Zhao
-  - Yasuo
-- - Illaoi
-  - Malphite
-  - Nocturne
-  - Riven
-  - Shen
-  - Yasuo
+  - Evelynn
+  - Yuumi
+  - Jhin
+  - Kayn
+  - Zilean
+- !!python/tuple
+  - Thresh
   - Zed
-- - Janna
-  - Jarvin IV
-  - Karma
-  - Lulu
-  - Rakan
-  - Syndra
-  - Zoe
-- - Janna
-  - Jarvin IV
-  - Karma
-  - Lulu
-  - Syndra
-  - Xin Zhao
-  - Zoe
-- - Janna
-  - Jarvin IV
-  - Karma
-  - Neeko
-  - Rakan
-  - Soraka
-  - Xin Zhao
-- - Janna
-  - Jarvin IV
-  - Karma
-  - Soraka
-  - Syndra
-  - Urgot
-  - Viktor
-- - Janna
-  - Jarvin IV
-  - Karma
-  - Soraka
-  - Urgot
-  - Viktor
-  - Zoe
-- - Janna
-  - Jarvin IV
-  - Lulu
-  - Mordekaiser
-  - Poppy
-  - Rakan
-  - Soraka
-- - Janna
-  - Jarvin IV
-  - Lulu
-  - Mordekaiser
-  - Poppy
-  - Soraka
-  - Xin Zhao
-- - Janna
-  - Jarvin IV
-  - Lulu
-  - Rakan
-  - Soraka
-  - Syndra
-  - Xerath
-- - Janna
-  - Jarvin IV
-  - Lulu
-  - Rakan
-  - Soraka
-  - Xerath
-  - Zoe
-- - Janna
-  - Jarvin IV
-  - Lulu
-  - Soraka
-  - Syndra
-  - Xerath
-  - Xin Zhao
-- - Janna
-  - Jarvin IV
-  - Lulu
-  - Soraka
-  - Xerath
-  - Xin Zhao
-  - Zoe
-- - Janna
-  - Jarvin IV
-  - Mordekaiser
-  - Neeko
-  - Poppy
-  - Rakan
-  - Xin Zhao
-- - Janna
-  - Jarvin IV
-  - Mordekaiser
-  - Neeko
-  - Syndra
-  - Twisted Fate
-  - Wukong
-- - Janna
-  - Jarvin IV
-  - Mordekaiser
-  - Neeko
-  - Twisted Fate
-  - Wukong
-  - Zoe
-- - Janna
-  - Jarvin IV
-  - Mordekaiser
-  - Poppy
-  - Syndra
-  - Urgot
-  - Viktor
-- - Janna
-  - Jarvin IV
-  - Mordekaiser
-  - Poppy
-  - Urgot
-  - Viktor
-  - Zoe
-- - Janna
-  - Jarvin IV
-  - Neeko
-  - Nocturne
-  - Shaco
-  - Syndra
-  - Viktor
-- - Janna
-  - Jarvin IV
-  - Neeko
-  - Nocturne
-  - Shaco
-  - Viktor
-  - Zoe
-- - Janna
-  - Jarvin IV
-  - Neeko
-  - Poppy
-  - Twisted Fate
-  - Wukong
-  - Xerath
-- - Janna
-  - Jarvin IV
-  - Neeko
-  - Rakan
-  - Syndra
-  - Xerath
-  - Xin Zhao
-- - Janna
-  - Jarvin IV
-  - Neeko
-  - Rakan
-  - Xerath
-  - Xin Zhao
-  - Zoe
-- - Janna
-  - Jarvin IV
-  - Nocturne
-  - Shaco
-  - Syndra
-  - Urgot
-  - Zoe
-- - Janna
-  - Jarvin IV
-  - Syndra
-  - Urgot
-  - Viktor
-  - Xerath
-  - Zoe
-- - Janna
-  - Karma
-  - Lulu
-  - Mordekaiser
-  - Neeko
-  - Poppy
-  - Rakan
-- - Janna
-  - Karma
-  - Lulu
-  - Mordekaiser
-  - Neeko
-  - Poppy
-  - Xin Zhao
-- - Janna
-  - Karma
-  - Lulu
-  - Neeko
-  - Rakan
-  - Syndra
-  - Xerath
-- - Janna
-  - Karma
-  - Lulu
-  - Neeko
-  - Rakan
-  - Xerath
-  - Zoe
-- - Janna
-  - Karma
-  - Lulu
-  - Neeko
-  - Syndra
-  - Xerath
-  - Xin Zhao
-- - Janna
-  - Karma
-  - Lulu
-  - Neeko
-  - Xerath
-  - Xin Zhao
-  - Zoe
-- - Janna
-  - Karma
-  - Mordekaiser
-  - Poppy
-  - Rakan
-  - Soraka
-  - Xin Zhao
-- - Janna
-  - Karma
-  - Mordekaiser
-  - Soraka
-  - Syndra
-  - Twisted Fate
-  - Wukong
-- - Janna
-  - Karma
-  - Mordekaiser
-  - Soraka
-  - Twisted Fate
-  - Wukong
-  - Zoe
-- - Janna
-  - Karma
-  - Neeko
-  - Nocturne
-  - Shaco
-  - Soraka
-  - Urgot
-- - Janna
-  - Karma
-  - Neeko
-  - Soraka
-  - Urgot
-  - Viktor
-  - Xerath
-- - Janna
-  - Karma
-  - Nocturne
-  - Shaco
-  - Soraka
-  - Syndra
-  - Viktor
-- - Janna
-  - Karma
-  - Nocturne
-  - Shaco
-  - Soraka
-  - Viktor
-  - Zoe
-- - Janna
-  - Karma
-  - Poppy
-  - Soraka
-  - Twisted Fate
-  - Wukong
-  - Xerath
-- - Janna
-  - Karma
-  - Rakan
-  - Soraka
-  - Syndra
-  - Xerath
-  - Xin Zhao
-- - Janna
-  - Karma
-  - Rakan
-  - Soraka
-  - Xerath
-  - Xin Zhao
-  - Zoe
-- - Janna
-  - Lulu
-  - Rakan
-  - Soraka
-  - Syndra
-  - Urgot
-  - Viktor
-- - Janna
-  - Lulu
-  - Rakan
-  - Soraka
-  - Urgot
-  - Viktor
-  - Zoe
-- - Janna
-  - Lulu
-  - Soraka
-  - Syndra
-  - Urgot
-  - Viktor
-  - Xin Zhao
-- - Janna
-  - Lulu
-  - Soraka
-  - Urgot
-  - Viktor
-  - Xin Zhao
-  - Zoe
-- - Janna
-  - Mordekaiser
-  - Neeko
-  - Nocturne
-  - Poppy
-  - Shaco
-  - Urgot
-- - Janna
-  - Mordekaiser
-  - Neeko
-  - Poppy
-  - Urgot
-  - Viktor
-  - Xerath
-- - Janna
-  - Mordekaiser
-  - Nocturne
-  - Poppy
-  - Shaco
-  - Syndra
-  - Viktor
-- - Janna
-  - Mordekaiser
-  - Nocturne
-  - Poppy
-  - Shaco
-  - Viktor
-  - Zoe
-- - Janna
-  - Mordekaiser
-  - Poppy
-  - Rakan
-  - Syndra
-  - Xerath
-  - Xin Zhao
-- - Janna
-  - Mordekaiser
-  - Poppy
-  - Rakan
-  - Xerath
-  - Xin Zhao
-  - Zoe
-- - Janna
-  - Mordekaiser
-  - Syndra
-  - Twisted Fate
-  - Wukong
-  - Xerath
-  - Zoe
-- - Janna
-  - Neeko
-  - Nocturne
-  - Shaco
-  - Syndra
-  - Urgot
-  - Xerath
-- - Janna
-  - Neeko
-  - Nocturne
-  - Shaco
-  - Urgot
-  - Xerath
-  - Zoe
-- - Janna
-  - Neeko
-  - Poppy
-  - Twisted Fate
-  - Urgot
-  - Viktor
-  - Wukong
-- - Janna
-  - Neeko
-  - Rakan
-  - Syndra
-  - Urgot
-  - Viktor
-  - Xin Zhao
-- - Janna
-  - Neeko
-  - Rakan
-  - Urgot
-  - Viktor
-  - Xin Zhao
-  - Zoe
-- - Janna
-  - Nocturne
-  - Shaco
-  - Syndra
-  - Viktor
-  - Xerath
-  - Zoe
-- - Janna
-  - Poppy
-  - Rakan
-  - Syndra
-  - Twisted Fate
-  - Wukong
-  - Xin Zhao
-- - Janna
-  - Poppy
-  - Rakan
-  - Twisted Fate
-  - Wukong
-  - Xin Zhao
-  - Zoe
-- - Jarvin IV
-  - Master Yi
-  - Rakan
-  - Shaco
-  - Xayah
-  - Yasuo
+  - Evelynn
+  - Aatrox
+  - Cassiopeia
+  - Kayn
+  - Zilean
+- !!python/tuple
   - Zed
-- - Jarvin IV
-  - Master Yi
-  - Shaco
-  - Xayah
-  - Xin Zhao
-  - Yasuo
-  - Zed
-- - Jinx
-  - Kog Maw
-  - Master Yi
-  - Nocturne
-  - Riven
-  - Shen
-  - Zed
-- - Jinx
-  - Kog Maw
-  - Master Yi
-  - Rakan
-  - Urgot
-  - Xayah
-  - Yasuo
-- - Jinx
-  - Kog Maw
-  - Master Yi
-  - Riven
-  - Twisted Fate
-  - Viktor
-  - Yasuo
-- - Jinx
-  - Kog Maw
-  - Master Yi
-  - Shen
-  - Twisted Fate
-  - Viktor
-  - Yasuo
-- - Jinx
-  - Kog Maw
-  - Master Yi
-  - Urgot
-  - Xayah
-  - Xin Zhao
-  - Yasuo
-- - Jinx
-  - Kog Maw
-  - Nocturne
-  - Riven
-  - Shen
-  - Yasuo
-  - Zed
-- - Karma
-  - Lulu
-  - Master Yi
-  - Shaco
-  - Xayah
-  - Yasuo
-  - Zed
-- - Lulu
-  - Riven
-  - Shen
-  - Soraka
-  - Syndra
-  - Xayah
-  - Zoe
-- - Master Yi
-  - Mordekaiser
-  - Riven
-  - Shaco
-  - Wukong
-  - Yasuo
-  - Zed
-- - Master Yi
-  - Mordekaiser
-  - Shaco
-  - Shen
-  - Wukong
-  - Yasuo
-  - Zed
-- - Master Yi
-  - Nocturne
-  - Rakan
-  - Urgot
-  - Xayah
-  - Yasuo
-  - Zed
-- - Master Yi
-  - Nocturne
-  - Riven
-  - Twisted Fate
-  - Viktor
-  - Yasuo
-  - Zed
-- - Master Yi
-  - Nocturne
-  - Shen
-  - Twisted Fate
-  - Viktor
-  - Yasuo
-  - Zed
-- - Master Yi
-  - Nocturne
-  - Urgot
-  - Xayah
-  - Xin Zhao
-  - Yasuo
-  - Zed
-- - Master Yi
-  - Riven
-  - Shaco
-  - Twisted Fate
-  - Xerath
-  - Yasuo
-  - Zed
-- - Master Yi
-  - Shaco
-  - Shen
-  - Twisted Fate
-  - Xerath
-  - Yasuo
-  - Zed
-- - Neeko
-  - Rakan
-  - Riven
-  - Shen
-  - Syndra
-  - Xayah
-  - Zoe
-- - Neeko
-  - Riven
-  - Shen
-  - Syndra
-  - Xayah
-  - Xin Zhao
-  - Zoe
+  - Lux
+  - Nunu
+  - Ashe
+  - Warick
+  - Ezreal
+  - Kayn
+- !!python/tuple
+  - Irelia
+  - Nunu
+  - Ashe
+  - Morgana
+  - Warick
+  - Ezreal
+  - Yone
