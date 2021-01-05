@@ -13,11 +13,6 @@ Aatrox:
   Traits:
     - Cultist
     - Vanguard
-Ahri:
-  Cost: 4
-  Traits:
-    - Spirit
-    - Mage
 Akali:
   Cost: 3
   Traits:
@@ -28,47 +23,47 @@ Annie:
   Traits:
     - Fortune
     - Mage
-Aphelios:
-  Cost: 2
-  Traits:
-    - Moonlight
-    - Hunter
-Ashe:
+Aurelion Sol:
   Cost: 4
   Traits:
-    - Elderwood
-    - Hunter
+    - Dragonsoul
+    - Mage
 Azir:
   Cost: 5
   Traits:
     - Warlord
     - Keeper
     - Emperor
-Cassiopeia:
+Brand:
+  Cost: 1
+  Traits:
+    - Dragonsoul
+    - Mage
+Braum:
+  Cost: 2
+  Traits:
+    - Dragonsoul
+    - Vanguard
+Chogath:
   Cost: 4
   Traits:
-    - Dusk
-    - Mystic
+    - Fabled
+    - Brawler
+Darius:
+  Cost: 3
+  Traits:
+    - Fortune
+    - Slayer
 Diana:
   Cost: 1
   Traits:
-    - Moonlight
+    - Spirit
     - Assassin
 Elise:
   Cost: 1
   Traits:
     - Cultist
     - Keeper
-Evelynn:
-  Cost: 3
-  Traits:
-    - Cultist
-    - Shade
-Ezreal:
-  Cost: 5
-  Traits:
-    - Elderwood
-    - Dazzler
 Fiora:
   Cost: 1
   Traits:
@@ -78,11 +73,6 @@ Garen:
   Cost: 1
   Traits:
     - Warlord
-    - Vanguard
-Hecarim:
-  Cost: 2
-  Traits:
-    - Elderwood
     - Vanguard
 Irelia:
   Cost: 3
@@ -105,16 +95,6 @@ Jax:
   Traits:
     - Divine
     - Duelist
-Jhin:
-  Cost: 4
-  Traits:
-    - Cultist
-    - Sharpshooter
-Jinx:
-  Cost: 3
-  Traits:
-    - Fortune
-    - Sharpshooter
 Kalista:
   Cost: 3
   Traits:
@@ -126,11 +106,11 @@ Katarina:
     - Warlord
     - Fortune
     - Assassin
-Kayn:
-  Cost: 5
+Kayle:
+  Cost: 4
   Traits:
-    - Tormented
-    - Shade
+    - Divine
+    - Executioner
 Kennen:
   Cost: 3
   Traits:
@@ -140,32 +120,17 @@ Kindred:
   Cost: 3
   Traits:
     - Spirit
-    - Hunter
+    - Executioner
 Lee Sin:
   Cost: 5
   Traits:
     - Divine
     - Duelist
-Lillia:
-  Cost: 5
-  Traits:
-    - Dusk
-    - Mage
-Lissandra:
-  Cost: 1
-  Traits:
-    - Moonlight
-    - Dazzler
 Lulu:
   Cost: 2
   Traits:
     - Elderwood
     - Mage
-Lux:
-  Cost: 3
-  Traits:
-    - Divine
-    - Dazzler
 Maokai:
   Cost: 1
   Traits:
@@ -175,12 +140,22 @@ Morgana:
   Cost: 4
   Traits:
     - Enlightened
-    - Dazzler
-Nami:
+    - Syphoner
+Nasus:
   Cost: 1
   Traits:
-    - Enlightened
-    - Mage
+    - Divine
+    - Syphoner
+Nautilus:
+  Cost: 2
+  Traits:
+    - Fabled
+    - Vanguard
+Neeko:
+  Cost: 3
+  Traits:
+    - Fabled
+    - Mystic
 Nidalee:
   Cost: 1
   Traits:
@@ -191,16 +166,33 @@ Nunu:
   Traits:
     - Elderwood
     - Brawler
+Olaf:
+  Cost: 4
+  Traits:
+    - Dragonsoul
+    - Slayer
+Ornn:
+  Cost: 5
+  Traits:
+    - Elderwood
+    - Vanguard
+    - Blacksmith
 Pyke:
   Cost: 2
   Traits:
     - Cultist
     - Assassin
-Riven:
-  Cost: 4
+Rakan:
+  Cost: 2
   Traits:
-    - Dusk
+    - Elderwood
     - Keeper
+Samira:
+  Cost: 5
+  Traits:
+    - Daredevil
+    - Sharpshooter
+    - Slayer
 Sejuani:
   Cost: 4
   Traits:
@@ -217,11 +209,21 @@ Shen:
     - Ninja
     - Adept
     - Mystic
-Sylas:
-  Cost: 2
+Shyvana:
+  Cost: 3
   Traits:
-    - Moonlight
+    - Dragonsoul
     - Brawler
+Sivir:
+  Cost: 3
+  Traits:
+    - Cultist
+    - Sharpshooter
+Swain:
+  Cost: 5
+  Traits:
+    - Dragonsoul
+    - Syphoner
 Tahm Kench:
   Cost: 1
   Traits:
@@ -237,21 +239,22 @@ Teemo:
   Traits:
     - Spirit
     - Sharpshooter
-Thresh:
-  Cost: 2
+Tristana:
+  Cost: 1
   Traits:
-    - Dusk
-    - Vanguard
+    - Dragonsoul
+    - Sharpshooter
+Tryndamere:
+  Cost: 4
+  Traits:
+    - Warlord
+    - Duelist
+    - Slayer
 Twisted Fate:
   Cost: 1
   Traits:
     - Cultist
     - Mage
-Vayne:
-  Cost: 1
-  Traits:
-    - Dusk
-    - Sharpshooter
 Veigar:
   Cost: 3
   Traits:
@@ -262,22 +265,22 @@ Vi:
   Traits:
     - Warlord
     - Brawler
-Warick:
-  Cost: 4
+Vladimir:
+  Cost: 2
   Traits:
-    - Divine
-    - Hunter
-    - Brawler
+    - Cultist
+    - Syphoner
 Wukong:
   Cost: 1
   Traits:
     - Divine
     - Vanguard
-Xin Zhao:
-  Cost: 3
+Xayah:
+  Cost: 4
   Traits:
-    - Warlord
-    - Duelist
+    - Elderwood
+    - Keeper
+    - Executioner
 Yasuo:
   Cost: 1
   Traits:
@@ -297,7 +300,7 @@ Zed:
   Cost: 2
   Traits:
     - Ninja
-    - Shade
+    - Slayer
 Zilean:
   Cost: 5
   Traits:
