@@ -68,6 +68,7 @@ def checkSynergies(check_champs, all_syn, all_champs):
             
     #print (synergy_tally)
     chosen = False
+    chosen_fate = None
     for synergy in synergy_set:
         #print ("Testing synergy: " + synergy)
         #print ("With a tally of: " + str(synergy_tally[synergy]))
@@ -76,19 +77,20 @@ def checkSynergies(check_champs, all_syn, all_champs):
             if synergy in fates and not chosen and enable_fates:
                 synergy_tally[synergy] += 1
                 chosen = True
+                chosen_fate = synergy
                 if synergy_tally[synergy] not in all_syn[synergy]:
-                    return False
+                    return [False, chosen_fate]
             else:
-                return False
-    return True
+                return [False, chosen_fate]
+    return [True, chosen_fate]
 
-# Uses test case of Rakan and Xin
+# Uses test case for Lee Sin and Jax
 def testPass(all_syn, all_champs):
-    return checkSynergies(["Lee Sin","Jax"], all_syn, all_champs)
+    return checkSynergies(["Lee Sin","Jax"], all_syn, all_champs)[0]
     
 def testFail(all_syn, all_champs):
-    case_1 = checkSynergies(["Lee Sin","Xin Zhao","Jax"], all_syn, all_champs)
-    case_2 = checkSynergies(["Sett"], all_syn, all_champs)
+    case_1 = checkSynergies(["Lee Sin","Xin Zhao","Jax"], all_syn, all_champs)[0]
+    case_2 = checkSynergies(["Sett"], all_syn, all_champs)[0]
     return (case_1 and case_2)
 
 def run_tests(all_syn, all_champs):
@@ -140,13 +142,16 @@ for level in range(1,10,1):
 
 
 total_perf = 0
-for level in range(8,9,1):
+for level in range(8,10,1):
     print ("Running on level: ",str(level))
     test_list = combinations(champs_by_level[str(level)], level)
     print ("List made")
     perfect_syn = []
     for cur_syn in test_list:
-        if checkSynergies(cur_syn, synergy_data, champion_data):
+        results = checkSynergies(cur_syn, synergy_data, champion_data)
+        if results[0]:
+            cur_syn = list(cur_syn)
+            cur_syn.append("Fate: "+str(results[1]))
             perfect_syn.append(cur_syn)
 
     print (str(len(perfect_syn)) + " found!")
