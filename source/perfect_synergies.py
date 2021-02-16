@@ -74,10 +74,8 @@ def check_synergies(check_champs, all_syn, all_champs, _enable_fates):
     for cur_champ in check_champs:
         for cur_trait in all_champs[cur_champ]["Traits"]:
             synergy_tally[cur_trait] += 1
-            if cur_trait not in synergy_set: 
+            if cur_trait not in synergy_set:
                 synergy_set.append(cur_trait)
- 
-
     chosen = False
     chosen_fate = None
     for synergy in synergy_set:

@@ -1,5 +1,10 @@
-from yaml import safe_load, dump
+'''
+Simple function to writeout some example champions
+to a yaml file.
+Useful for data entry tests.
+'''
 import io
+from yaml import dump
 
 champions = {}
 champions["Ahri"] = {}
@@ -12,8 +17,4 @@ champions["Annie"]["Traits"] = ["Sorcerer", "Mech Pilot"]
 
 with io.open('data.yaml', 'w', encoding='utf8') as outfile:
     dump(champions, outfile, default_flow_style=False, allow_unicode=True)
-
-
-
 print("Done")
-
