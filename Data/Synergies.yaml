@@ -6,6 +6,8 @@ Assassin:
   - 2
   - 4
   - 6
+Blacksmith:
+  - 1
 Brawler:
   - 2
   - 4
@@ -15,9 +17,8 @@ Cultist:
   - 3
   - 6
   - 9
-Dazzler:
-  - 2
-  - 4
+Daredevil:
+  - 1
 Divine:
   - 2
   - 4
@@ -28,10 +29,10 @@ Duelist:
   - 4
   - 6
   - 8
-Dusk:
-  - 2
-  - 4
+Dragonsoul:
+  - 3
   - 6
+  - 9
 Elderwood:
   - 3
   - 6
@@ -42,17 +43,18 @@ Enlightened:
   - 2
   - 4
   - 6
-Exile:
-  - 1
-  - 2
-Fortune:
-  - 3
-  - 6
-Hunter:
+Executioner:
   - 2
   - 3
   - 4
-  - 5
+Exile:
+  - 1
+  - 2
+Fabled:
+  - 3
+Fortune:
+  - 3
+  - 6
 Keeper:
   - 2
   - 4
@@ -61,9 +63,6 @@ Mage:
   - 3
   - 6
   - 9
-Moonlight:
-  - 3
-  - 6
 Mystic:
   - 2
   - 4
@@ -71,20 +70,20 @@ Mystic:
 Ninja:
   - 1
   - 4
-Shade:
-  - 2
-  - 3
-  - 4
 Sharpshooter:
   - 2
   - 4
   - 6
+Slayer:
+  - 3
+  - 6
 Spirit:
   - 2
   - 4
+Syphoner:
+  - 2
+  - 4
 The Boss:
-  - 1
-Tormented:
   - 1
 Vanguard:
   - 2

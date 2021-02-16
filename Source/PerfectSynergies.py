@@ -2,37 +2,41 @@
 # Find the perfect Synergies for a team of two or more! #
 #########################################################
 import io
+from argparse import ArgumentParser
+from itertools import combinations, product
 from yaml import safe_load, dump
-from itertools import product
-from itertools import combinations
 
-enable_fates = False
+def exit_(msg):
+    if msg: print (msg)
+    print ("Exiting...")
+    exit()
 
-def checkSynergies(check_champs, all_syn, all_champs):
+def check_synergies(check_champs, all_syn, all_champs, enable_fates):
     traits  = [ "Adept",
                 "Assassin",
+                "Blacksmith",
                 "Brawler",
                 "Cultist",
-                "Dazzler",
+                "Daredevil",
                 "Divine",
+                "Dragonsoul",
                 "Duelist",
-                "Dusk",
                 "Elderwood",
                 "Emperor",
                 "Enlightened",
+                "Executioner",
                 "Exile",
+                "Fabled",
                 "Fortune",
-                "Hunter",
                 "Keeper",
                 "Mage",
-                "Moonlight",
                 "Mystic",
                 "Ninja",
-                "Shade",
                 "Sharpshooter",
+                "Slayer",
                 "Spirit",
+                "Syphoner",
                 "The Boss",
-                "Tormented",
                 "Warlord",
                 "Vanguard"]
 
@@ -40,21 +44,21 @@ def checkSynergies(check_champs, all_syn, all_champs):
                 "Assassin",
                 "Brawler",
                 "Cultist",
-                "Dazzler",
                 "Divine",
                 "Duelist",
-                "Dusk",
+                "Dragonsoul",
                 "Elderwood",
                 "Enlightened",
+                "Executioner"
+                "Fabled",
                 "Fortune",
-                "Hunter",
                 "Keeper",
                 "Mage",
-                "Moonlight",
                 "Mystic",
-                "Shade",
                 "Sharpshooter",
+                "Slayer",
                 "Spirit",
+                "Syphoner",
                 "Warlord",
                 "Vanguard"]
 
@@ -66,12 +70,9 @@ def checkSynergies(check_champs, all_syn, all_champs):
             synergy_tally[cur_trait] += 1
             if cur_trait not in synergy_set: synergy_set.append(cur_trait)
             
-    #print (synergy_tally)
     chosen = False
     chosen_fate = None
     for synergy in synergy_set:
-        #print ("Testing synergy: " + synergy)
-        #print ("With a tally of: " + str(synergy_tally[synergy]))
         if synergy_tally[synergy] not in all_syn[synergy]:
             # Try to make the trait chosen, since it fails anyway!
             if synergy in fates and not chosen and enable_fates:
@@ -85,26 +86,34 @@ def checkSynergies(check_champs, all_syn, all_champs):
     return [True, chosen_fate]
 
 # Uses test case for Lee Sin and Jax
-def testPass(all_syn, all_champs):
-    return checkSynergies(["Lee Sin","Jax"], all_syn, all_champs)[0]
+def testPass(all_syn, all_champs, enable_fates):
+    return check_synergies(["Lee Sin","Jax"], all_syn, all_champs, enable_fates)[0]
     
-def testFail(all_syn, all_champs):
-    case_1 = checkSynergies(["Lee Sin","Xin Zhao","Jax"], all_syn, all_champs)[0]
-    case_2 = checkSynergies(["Sett"], all_syn, all_champs)[0]
+def testFail(all_syn, all_champs, enable_fates):
+    case_1 = check_synergies(["Lee Sin","Xin Zhao","Jax"], all_syn, all_champs, enable_fates)[0]
+    case_2 = check_synergies(["Sett"], all_syn, all_champs, enable_fates)[0]
     return (case_1 and case_2)
 
-def run_tests(all_syn, all_champs):
-    isPerf = testPass(synergy_data, champion_data)
+def run_tests(all_syn, all_champs, enable_fates):
+    isPerf = testPass(synergy_data, champion_data, enable_fates)
     if isPerf: print("Perfect synergy test passed!")
     else: print("Perfect synergy test failed...")
 
-    isPerf = testFail(synergy_data, champion_data)
+    isPerf = testFail(synergy_data, champion_data, enable_fates)
     if isPerf: print("Imperfect synergy test passed!")
     else: print("Imperfect synergy test failed...")
 
 #########################
 # Main code begins here #
 #########################
+
+parser = ArgumentParser(description='A program to find perfect synergies in TFT.')
+parser.add_argument('-c','--max_cost',type=int, help='Max cost to calculate up to. Max 9 and default 7.')
+parser.add_argument('-f','--fates',action='store_true', help='Add to enable fates. Default is disabled.')
+args = parser.parse_args()
+
+max_cost = args.max_cost if args.max_cost else 7
+enable_fates = args.fates if args.fates else False
 
 champion_data = None
 with open("../Data/Champions.yaml", 'r') as stream:
@@ -137,18 +146,14 @@ for level in range(1,10,1):
         champs_by_level[str(level)] += champs_by_cost[str(i)]
         i+=1
 
-    #if info["Cost"] <= costs_at_level[str(level)]:
-    #    champs_by_level[str(info["Cost"])].append(champion)
-
-
 total_perf = 0
-for level in range(8,10,1):
+for level in range(1,max_cost,1):
     print ("Running on level: ",str(level))
     test_list = combinations(champs_by_level[str(level)], level)
     print ("List made")
     perfect_syn = []
     for cur_syn in test_list:
-        results = checkSynergies(cur_syn, synergy_data, champion_data)
+        results = check_synergies(cur_syn, synergy_data, champion_data, enable_fates)
         if results[0]:
             cur_syn = list(cur_syn)
             cur_syn.append("Fate: "+str(results[1]))
@@ -161,8 +166,8 @@ for level in range(8,10,1):
     if enable_fates:
         oname = ''.join(["Perfect_level",str(level),"_wFates",".yaml"])
 
-    with io.open(oname, 'w', encoding='utf8') as outfile:
-        dump(perfect_syn, outfile, default_flow_style=False, allow_unicode=True)
+    with io.open(oname, 'w', encoding='utf8') as out_file:
+        dump(perfect_syn, out_file, default_flow_style=False, allow_unicode=True)
 
 
 
