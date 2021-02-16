@@ -1,5 +1,5 @@
 #########################################################
-# Find the perfect Synergies for a team of two or more! #
+# Find the perfect Synergies for a team of one or more! #
 #########################################################
 import io
 from argparse import ArgumentParser
@@ -108,20 +108,27 @@ def run_tests(all_syn, all_champs, enable_fates):
 #########################
 
 parser = ArgumentParser(description='A program to find perfect synergies in TFT.')
-parser.add_argument('-c','--max_cost',type=int, help='Max cost to calculate up to. Max 9 and default 7.')
+parser.add_argument('--max_cost',type=int, help='Max cost to calculate up to. Max 9 and default 7.')
+parser.add_argument('--min_cost',type=int, help='Min cost to start from. Min 1 and default 1.')
 parser.add_argument('-f','--fates',action='store_true', help='Add to enable fates. Default is disabled.')
 args = parser.parse_args()
 
 max_cost = args.max_cost if args.max_cost else 7
+min_cost = args.min_cost if args.min_cost else 1
+if min_cost >= max_cost: _exit("Minimum cost provided is too low.")
 enable_fates = args.fates if args.fates else False
+
 
 champion_data = None
 with open("../Data/Champions.yaml", 'r') as stream:
     champion_data = safe_load(stream)
+if champion_data is None: _exit("Champion data not loaded properly.")
+
 champ_list = list(champion_data.keys())
 synergy_data = None
 with open("../Data/Synergies.yaml", 'r') as stream:
     synergy_data = safe_load(stream)
+if synergy_data is None: _exit("Synergy data not loaded properly.")
 
 
 champs_by_level = {"1":[], "2":[], "3":[], "4":[], "5":[], "6":[], "7":[], "8":[], "9":[]}
@@ -142,12 +149,12 @@ for champion, info in champion_data.items():
 
 for level in range(1,10,1):
     i = 1
-    while (i<=costs_at_level[str(level)]):
+    while i<=costs_at_level[str(level)]:
         champs_by_level[str(level)] += champs_by_cost[str(i)]
         i+=1
 
 total_perf = 0
-for level in range(1,max_cost,1):
+for level in range(min_cost,(max_cost+1),1):
     print ("Running on level: ",str(level))
     test_list = combinations(champs_by_level[str(level)], level)
     print ("List made")
@@ -170,7 +177,5 @@ for level in range(1,max_cost,1):
         dump(perfect_syn, out_file, default_flow_style=False, allow_unicode=True)
 
 
-
 print ("Total perfect synergies: ", total_perf)
-
 print("Done")
